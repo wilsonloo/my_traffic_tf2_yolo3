@@ -44,9 +44,9 @@ __C.TRAIN.LEARN_RATE_INIT       = 1e-4
 __C.TRAIN.LEARN_RATE_END        = 1e-6
 __C.TRAIN.WARMUP_EPOCHS         = 2
 __C.TRAIN.FISRT_STAGE_EPOCHS    = 20
-__C.TRAIN.SECOND_STAGE_EPOCHS   = 5 #30
+__C.TRAIN.SECOND_STAGE_EPOCHS   = 30
 #__C.TRAIN.INITIAL_WEIGHT        = "./checkpoint/yolov3_coco_demo.ckpt"
-__C.TRAIN.INITIAL_WEIGHT        = "./checkpoint/yolov3_test_loss=17.6209.ckpt-24"
+__C.TRAIN.INITIAL_WEIGHT        = "./checkpoint/yolov3_test_loss_15.4710.ckpt-50"
 
 
 # TEST options

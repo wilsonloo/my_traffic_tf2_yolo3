@@ -22,6 +22,10 @@ import numpy as np
 import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior()
 
+tf_config = tf.ConfigProto()  
+tf_config.gpu_options.allow_growth = True  
+session = tf.Session(config=tf_config) 
+
 import core.utils as utils
 from tqdm import tqdm
 from core.dataset import Dataset
@@ -144,7 +148,7 @@ class YoloTrain(object):
         last_epoch = 0
         if not from_scratch:
             try:
-                found = re.sub(r'.*yolov3_test_loss=.*.ckpt-(\d+)', r'\1', self.initial_weight)
+                found = re.sub(r'.*yolov3_test_loss_.*.ckpt-(\d+)', r'\1', self.initial_weight)
                 last_epoch = int(found)
             except:
                 print("found:", found)
@@ -198,11 +202,11 @@ class YoloTrain(object):
                 test_epoch_loss.append(test_step_loss)
 
             train_epoch_loss, test_epoch_loss = np.mean(train_epoch_loss), np.mean(test_epoch_loss)
-            ckpt_file = "./checkpoint/yolov3_test_loss=%.4f.ckpt" % test_epoch_loss
+            ckpt_file = "./checkpoint/yolov3_test_loss_%.4f.ckpt" % test_epoch_loss
             log_time = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time()))
             print("=> Epoch: %d(%d/%d) Time: %s Train loss: %.2f Test loss: %.2f Saving %s ..."
                             %(global_epoch, epoch, total_epoch, log_time, train_epoch_loss, test_epoch_loss, ckpt_file))
-            self.saver.save(self.sess, ckpt_file, global_step=epoch)
+            self.saver.save(self.sess, ckpt_file, global_step=global_epoch)
             
             # 记录该快照
             ckpt_list.append((ckpt_file, test_epoch_loss))
