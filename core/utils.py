@@ -15,7 +15,11 @@ import cv2
 import random
 import colorsys
 import numpy as np
-import tensorflow as tf
+
+# lws
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior( )
+
 from core.config import cfg
 
 def read_class_names(class_file_name):
@@ -118,7 +122,6 @@ def bboxes_iou(boxes1, boxes2):
 
 
 def read_pb_return_tensors(graph, pb_file, return_elements):
-
     with tf.gfile.FastGFile(pb_file, 'rb') as f:
         frozen_graph_def = tf.GraphDef()
         frozen_graph_def.ParseFromString(f.read())
@@ -166,9 +169,8 @@ def nms(bboxes, iou_threshold, sigma=0.3, method='nms'):
 
     return best_bboxes
 
-
+# 不同框框有不同的置信值，只绘制置信值大于score_threshold 的框框
 def postprocess_boxes(pred_bbox, org_img_shape, input_size, score_threshold):
-
     valid_scale=[0, np.inf]
     pred_bbox = np.array(pred_bbox)
 

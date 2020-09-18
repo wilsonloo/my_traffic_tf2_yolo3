@@ -12,7 +12,11 @@
 #================================================================
 
 import core.common as common
-import tensorflow as tf
+
+#lws
+#import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 
 
 def darknet53(input_data, trainable):

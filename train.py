@@ -12,10 +12,16 @@
 #================================================================
 
 import os
+import re
 import time
 import shutil
 import numpy as np
-import tensorflow as tf
+
+#lws
+#import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
+
 import core.utils as utils
 from tqdm import tqdm
 from core.dataset import Dataset
@@ -123,16 +129,35 @@ class YoloTrain(object):
 
 
     def train(self):
+        from_scratch = False
         self.sess.run(tf.global_variables_initializer())
         try:
             print('=> Restoring weights from: %s ... ' % self.initial_weight)
             self.loader.restore(self.sess, self.initial_weight)
+            from_scratch = False
         except:
             print('=> %s does not exist !!!' % self.initial_weight)
             print('=> Now it starts to train YOLOV3 from scratch ...')
+            from_scratch = True
             self.first_stage_epochs = 0
 
-        for epoch in range(1, 1+self.first_stage_epochs+self.second_stage_epochs):
+        last_epoch = 0
+        if not from_scratch:
+            try:
+                found = re.sub(r'.*yolov3_test_loss=.*.ckpt-(\d+)', r'\1', self.initial_weight)
+                last_epoch = int(found)
+            except:
+                print("found:", found)
+                print("=> faield to capture the last epoch in %s" % self.initial_weight)
+                last_epoch = 0
+
+        # checkpont列表
+        ckpt_list = []
+        
+        # 总的epoch
+        total_epoch = self.first_stage_epochs+self.second_stage_epochs
+        for epoch in range(1, 1+total_epoch):
+            global_epoch = last_epoch + epoch
             if epoch <= self.first_stage_epochs:
                 train_op = self.train_op_with_frozen_variables
             else:
@@ -156,7 +181,7 @@ class YoloTrain(object):
 
                 train_epoch_loss.append(train_step_loss)
                 self.summary_writer.add_summary(summary, global_step_val)
-                pbar.set_description("train loss: %.2f" %train_step_loss)
+                pbar.set_description("=> Epoch: %d(%d/%d) train loss: %.2f" % (global_epoch, epoch, total_epoch, train_step_loss))
 
             for test_data in self.testset:
                 test_step_loss = self.sess.run( self.loss, feed_dict={
@@ -175,10 +200,23 @@ class YoloTrain(object):
             train_epoch_loss, test_epoch_loss = np.mean(train_epoch_loss), np.mean(test_epoch_loss)
             ckpt_file = "./checkpoint/yolov3_test_loss=%.4f.ckpt" % test_epoch_loss
             log_time = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time()))
-            print("=> Epoch: %2d Time: %s Train loss: %.2f Test loss: %.2f Saving %s ..."
-                            %(epoch, log_time, train_epoch_loss, test_epoch_loss, ckpt_file))
+            print("=> Epoch: %d(%d/%d) Time: %s Train loss: %.2f Test loss: %.2f Saving %s ..."
+                            %(global_epoch, epoch, total_epoch, log_time, train_epoch_loss, test_epoch_loss, ckpt_file))
             self.saver.save(self.sess, ckpt_file, global_step=epoch)
-
+            
+            # 记录该快照
+            ckpt_list.append((ckpt_file, test_epoch_loss))
+            ckpt_list.sort(key=lambda elem: elem[1])
+            limit = 5
+            if len(ckpt_list) > limit:
+                ckpt_list, remove_list = ckpt_list[:limit], ckpt_list[limit:]
+                for elem in remove_list:
+                    fname = elem[0]    
+                    cmd = "rm "+fname+"*"
+                    print("calling ", cmd)
+                    os.system(cmd)
+            if len(ckpt_list) > 0:
+                print("current best:", ckpt_list[0][0])
 
 
 if __name__ == '__main__': YoloTrain().train()

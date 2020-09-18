@@ -12,7 +12,12 @@
 #================================================================
 
 import numpy as np
-import tensorflow as tf
+
+#lws
+#import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
+
 import core.utils as utils
 import core.common as common
 import core.backbone as backbone

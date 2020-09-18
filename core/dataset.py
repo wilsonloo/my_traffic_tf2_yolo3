@@ -44,6 +44,7 @@ class Dataset(object):
 
 
     def load_annotations(self, dataset_type):
+        print(">>> load_annotations from:", self.annot_path)
         with open(self.annot_path, 'r') as f:
             txt = f.readlines()
             annotations = [line.strip() for line in txt if len(line.strip().split()[1:]) != 0]
