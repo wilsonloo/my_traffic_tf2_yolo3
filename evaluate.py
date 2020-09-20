@@ -15,7 +15,12 @@ import cv2
 import os
 import shutil
 import numpy as np
-import tensorflow as tf
+
+#lws
+#import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
+
 import core.utils as utils
 from core.config import cfg
 from core.yolov3 import YOLOV3

@@ -90,7 +90,8 @@ def draw_bbox(image, bboxes, classes=read_class_names(cfg.YOLO.CLASSES), show_la
         cv2.rectangle(image, c1, c2, bbox_color, bbox_thick)
 
         if show_label:
-            bbox_mess = '%s: %.2f' % (classes[class_ind], score)
+            bbox_mess = '%s: %.4f' % (classes[class_ind], score)
+            print("score is >>>>>>>>>>>", score)
             t_size = cv2.getTextSize(bbox_mess, 0, fontScale, thickness=bbox_thick//2)[0]
             cv2.rectangle(image, c1, (c1[0] + t_size[0], c1[1] - t_size[1] - 3), bbox_color, -1)  # filled
 
@@ -173,7 +174,7 @@ def nms(bboxes, iou_threshold, sigma=0.3, method='nms'):
 def postprocess_boxes(pred_bbox, org_img_shape, input_size, score_threshold):
     valid_scale=[0, np.inf]
     pred_bbox = np.array(pred_bbox)
-
+    
     pred_xywh = pred_bbox[:, 0:4]
     pred_conf = pred_bbox[:, 4]
     pred_prob = pred_bbox[:, 5:]

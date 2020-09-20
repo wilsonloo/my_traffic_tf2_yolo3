@@ -37,30 +37,30 @@ __C.YOLO.DEMO_WEIGHT            = "./checkpoint/yolov3_coco_demo.ckpt"
 __C.TRAIN                       = edict()
 
 __C.TRAIN.ANNOT_PATH            = "./data/dataset/FullIJCNN2013-train.dataset"
-__C.TRAIN.BATCH_SIZE            = 3 #6
+__C.TRAIN.BATCH_SIZE            = 1 #2 #6
 __C.TRAIN.INPUT_SIZE            = [320, 352, 384, 416, 448, 480, 512, 544, 576, 608]
 __C.TRAIN.DATA_AUG              = True
 __C.TRAIN.LEARN_RATE_INIT       = 1e-4
 __C.TRAIN.LEARN_RATE_END        = 1e-6
 __C.TRAIN.WARMUP_EPOCHS         = 2
-__C.TRAIN.FISRT_STAGE_EPOCHS    = 20
+__C.TRAIN.FISRT_STAGE_EPOCHS    = 30
 __C.TRAIN.SECOND_STAGE_EPOCHS   = 30
 #__C.TRAIN.INITIAL_WEIGHT        = "./checkpoint/yolov3_coco_demo.ckpt"
-__C.TRAIN.INITIAL_WEIGHT        = "./checkpoint/yolov3_test_loss_15.4710.ckpt-50"
+__C.TRAIN.INITIAL_WEIGHT        = "./checkpoint/yolov3_test_loss_11.4015.ckpt-516"
 
 
 # TEST options
 __C.TEST                        = edict()
 
-__C.TEST.ANNOT_PATH             = "./data/dataset/FullIJCNN2013-train.dataset"
+__C.TEST.ANNOT_PATH             = "./data/dataset/FullIJCNN2013-val.dataset"
 __C.TEST.BATCH_SIZE             = 2
-__C.TEST.INPUT_SIZE             = 544
+__C.TEST.INPUT_SIZE             = 608
 __C.TEST.DATA_AUG               = False
 __C.TEST.WRITE_IMAGE            = True
 __C.TEST.WRITE_IMAGE_PATH       = "./data/detection/"
 __C.TEST.WRITE_IMAGE_SHOW_LABEL = True
 #__C.TEST.WEIGHT_FILE            = "./checkpoint/yolov3_test_loss=11.6093.ckpt-13"
-__C.TEST.WEIGHT_FILE            = "./checkpoint/yolov3_test_loss=31.7604.ckpt-14"
+__C.TEST.WEIGHT_FILE            = "./checkpoint/yolov3_test_loss_10.9863.ckpt-373"
 __C.TEST.SHOW_LABEL             = True
 __C.TEST.SCORE_THRESHOLD        = 0.3
 __C.TEST.IOU_THRESHOLD          = 0.45

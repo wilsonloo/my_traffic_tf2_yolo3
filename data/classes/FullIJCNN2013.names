@@ -1,43 +1,43 @@
-speed limit 20
-speed limit 30
-speed limit 50
-speed limit 60
-speed limit 70
-speed limit 80
-restriction ends 80
-speed limit 100
-speed limit 120
-no overtaking
-no overtaking (trucks)
-priority at next intersection
-priority road
-give way
+speed_limit_20
+speed_limit_30
+speed_limit_50
+speed_limit_60
+speed_limit_70
+speed_limit_80
+restriction_ends_80
+speed_limit_100
+speed_limit_120
+no_overtaking
+no_overtaking(trucks)
+priority_at_next_intersection
+priority_road
+give_way
 stop
-no traffic both ways
-no trucks
-no entry
+no_traffic_both_ways
+no_trucks
+no_entry
 danger
-bend left
-bend right
+bend_left
+bend_right
 bend
-uneven road
-slippery road
-road narrows
+uneven_road
+slippery_road
+road_narrows
 construction
-traffic signal
-pedestrian crossing
-school crossing
-cycles crossing
+traffic_signal
+pedestrian_crossing
+school_crossing
+cycles_crossing
 snow
 animals
-restriction ends
-go right
-go left
-go straight
-go right or straight
-go left or straight
-keep right
-keep left
+restriction_ends
+go_right
+go_left
+go_straight
+go_right_or_straight
+go_left_or_straight
+keep_right
+keep_left
 roundabout
-restriction ends (overtaking)
-restriction ends (overtaking (trucks))
+restriction_ends(overtaking)
+restriction_ends(overtaking(trucks))
