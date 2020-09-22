@@ -21,3 +21,5 @@ checkpoint/
 core/__pycache__/
 data/log/
 models/
+data/detection/
+mAP/

@@ -1,0 +1,43 @@
+speed_limit_20
+speed_limit_30
+speed_limit_50
+speed_limit_60
+speed_limit_70
+speed_limit_80
+restriction_ends_80 解除限速80
+speed_limit_100
+speed_limit_120
+no_overtaking                  禁止并排
+no_overtaking(trucks)          禁止和货车并排
+priority_at_next_intersection  下个路口干路先行
+priority_road
+give_way
+stop                            次干道停车观察
+no_traffic_both_ways            禁止一切机动车通行
+no_trucks                       禁止货车驶入
+no_entry                        禁止机动车驶入
+danger                          注意危险
+bend_left                       要左转弯道
+bend_right                      要右转弯道
+bend                            连续弯道 
+uneven_road                     坑洼路段
+slippery_road                   打滑路段
+road_narrows                    道路变窄
+construction                    前方施工
+traffic_signal                  红绿灯
+pedestrian_crossing             注意行人
+school_crossing                 学校路口
+cycles_crossing                 非机动车路口
+snow                            注意下雪
+animals                         注意动物
+restriction_ends                限速解除
+go_right                        右转
+go_left                         左转
+go_straight                     前行
+go_right_or_straight            右转或前行
+go_left_or_straight             左转或前行
+keep_right                      靠右行使
+keep_left                       靠左行使
+roundabout                      环岛
+restriction_ends(overtaking)           解除超车
+restriction_ends(overtaking(trucks))   解除超车（货车）
