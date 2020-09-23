@@ -1,638 +1,762 @@
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00300.jpg 568,319,585,336,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00054.jpg 56,395,71,410,38 449,335,468,354,12 555,331,585,359,27
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00157.jpg 554,297,585,328,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00740.jpg 34,389,69,424,5 547,387,585,425,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01049.jpg 120,418,138,439,38 247,164,297,224,27
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00200.jpg 382,311,399,329,17 528,218,585,276,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00096.jpg 557,319,585,348,17
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00230.jpg 560,302,581,323,1 555,323,585,351,28
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00385.jpg 15,403,46,433,8 555,402,585,431,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00149.jpg 509,208,577,274,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00865.jpg 183,372,201,390,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00443.jpg 298,418,323,439,18 562,418,585,439,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00071.jpg 559,382,579,402,9 554,332,585,359,24 559,360,580,381,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00195.jpg 493,117,585,203,11 298,302,326,326,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00523.jpg 6,391,38,427,10 570,389,601,421,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00315.jpg 4,314,26,351,6
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00868.jpg 352,357,367,370,26
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00290.jpg 560,297,585,325,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00126.jpg 213,277,237,300,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00692.jpg 554,271,585,301,15
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00741.jpg 158,424,178,444,10 563,421,585,443,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00318.jpg 456,342,476,362,15 569,365,585,381,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00435.jpg 563,406,585,428,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00895.jpg 6,366,39,400,4 565,317,600,354,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00849.jpg 9,313,35,339,33 7,272,40,313,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00357.jpg 558,398,585,425,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00637.jpg 548,304,585,338,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00482.jpg 6,401,33,433,17 588,430,600,446,13 23,428,38,448,17 352,399,378,428,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00493.jpg 542,342,585,380,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00362.jpg 7,357,97,436,30
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00174.jpg 540,229,585,276,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00368.jpg 10,349,47,387,8 7,386,47,426,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00153.jpg 7,310,31,334,35
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00073.jpg 12,361,28,376,9 237,361,253,377,9 7,325,31,345,23 237,347,253,362,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00672.jpg 6,201,57,249,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00080.jpg 546,289,585,328,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00468.jpg 557,384,585,413,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00682.jpg 551,319,585,354,35 76,369,98,391,38 89,323,120,354,35
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00612.jpg 7,395,76,465,38 40,284,98,342,17
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00049.jpg 552,269,585,301,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00889.jpg 97,380,120,402,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00785.jpg 557,356,581,380,34 551,325,585,357,13 182,330,206,354,34
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00660.jpg 557,320,585,348,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00501.jpg 6,484,82,568,38 587,423,600,438,4 356,424,368,438,4 15,214,89,293,17
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00432.jpg 28,425,47,445,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00607.jpg 538,358,585,399,24
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00074.jpg 173,304,210,343,14 545,287,585,327,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00040.jpg 508,235,576,304,33
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00027.jpg 565,293,601,335,2 6,285,41,326,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00664.jpg 551,298,585,332,12 557,332,580,355,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00190.jpg 84,304,98,319,35
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00746.jpg 571,373,600,408,8 6,391,34,426,10 573,408,601,440,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00348.jpg 556,398,585,427,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00611.jpg 559,370,584,395,4 560,395,585,419,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01041.jpg 434,134,461,179,29 240,51,251,98,26 310,57,323,100,26
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00289.jpg 576,288,601,322,6
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00848.jpg 530,183,585,237,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00761.jpg 7,411,53,453,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00086.jpg 537,226,585,274,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00862.jpg 7,323,66,380,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00642.jpg 528,248,585,304,12 205,376,222,393,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00265.jpg 565,348,582,364,1 548,338,564,352,18 561,323,585,346,24
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00449.jpg 98,355,129,385,13 554,340,585,369,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00198.jpg 90,313,108,330,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00418.jpg 7,408,32,430,22 11,427,28,444,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00276.jpg 25,352,59,392,38 549,262,585,294,29
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00093.jpg -3,301,22,331,1 552,257,585,295,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00405.jpg 563,357,596,399,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00855.jpg 503,220,585,294,23 325,311,350,336,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00700.jpg 535,264,585,308,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00115.jpg 509,165,585,240,14 114,397,129,414,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00516.jpg 7,209,51,253,34
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00641.jpg 7,323,39,354,17
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00871.jpg 576,289,601,319,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00610.jpg 564,399,585,420,12 568,420,584,436,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01011.jpg 436,154,495,224,28
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00787.jpg 43,452,55,465,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00377.jpg 7,372,32,403,8 576,383,601,412,8 576,412,601,442,10 6,404,31,435,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00246.jpg 6,289,38,323,10 569,269,600,300,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00658.jpg 525,258,585,311,23
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00075.jpg 542,310,579,346,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00624.jpg 237,383,272,421,38 566,352,585,370,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00860.jpg 516,109,585,175,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00823.jpg 565,310,582,326,40 365,364,387,386,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00396.jpg 566,355,600,392,7 6,367,38,403,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00820.jpg 500,193,585,270,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00471.jpg 563,373,585,395,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00834.jpg 541,200,585,247,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00466.jpg 554,334,582,361,35 12,355,38,377,13 545,303,585,336,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00003.jpg 139,336,156,354,4 139,354,155,371,9 135,313,159,336,21
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00346.jpg 563,411,585,433,5 114,411,136,433,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00055.jpg 108,313,142,345,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00359.jpg 253,425,272,444,8 566,424,585,443,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00571.jpg 569,274,585,291,17
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00631.jpg 551,329,585,364,12 554,363,581,389,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00162.jpg 235,337,249,351,17 364,329,378,343,17 7,326,21,340,17
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00288.jpg 567,332,585,351,5 134,346,152,364,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00314.jpg 576,302,600,329,5 6,342,29,368,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00621.jpg 565,336,585,356,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00828.jpg 530,291,585,342,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00758.jpg 560,395,584,420,8 99,416,123,440,10 560,420,585,445,10 98,391,122,415,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00013.jpg 526,213,585,270,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00030.jpg 7,388,27,408,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00296.jpg 576,292,600,316,7 6,310,30,335,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00280.jpg 546,271,585,310,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00613.jpg 60,414,86,441,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00238.jpg 560,336,582,357,1 555,304,585,330,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00307.jpg 505,344,530,369,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00291.jpg 557,291,585,320,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00764.jpg 557,388,585,415,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00445.jpg 569,378,600,413,5 6,394,34,426,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00352.jpg 564,417,585,437,6 229,420,250,440,6
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00802.jpg 38,202,94,255,1 28,137,105,204,28
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00205.jpg 490,252,585,341,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00689.jpg 560,368,585,390,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00797.jpg 557,346,583,371,37 550,316,585,347,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00536.jpg 235,343,255,363,17 537,364,549,376,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00803.jpg 535,244,585,294,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00390.jpg 566,375,600,411,8 6,381,41,418,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00031.jpg 421,346,445,370,12 547,323,585,359,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00548.jpg 563,356,582,375,36 557,328,585,355,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00679.jpg 110,260,158,308,14 122,310,152,342,33
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00082.jpg 7,373,71,440,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00428.jpg 98,416,119,437,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00260.jpg 536,202,585,250,0
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00366.jpg 207,420,224,437,10 564,436,585,453,10 564,418,584,435,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00343.jpg 322,385,344,407,15 564,403,585,424,15
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00870.jpg 570,335,585,350,5 219,346,235,362,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01017.jpg 135,212,151,232,38 276,123,291,158,26
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00301.jpg 542,241,580,279,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00728.jpg 7,427,33,452,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00088.jpg 150,352,170,372,10 565,334,584,352,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00363.jpg 9,399,42,431,10 7,367,40,399,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00824.jpg 7,316,34,342,15
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00338.jpg 561,323,583,344,2 185,323,209,344,2 560,301,585,323,26
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00521.jpg 562,429,585,452,7 129,436,151,459,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00776.jpg 173,459,189,475,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00206.jpg 7,79,45,135,34 556,89,602,148,13 4,6,60,78,13 395,357,405,374,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00038.jpg 568,337,585,352,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00645.jpg 542,236,585,278,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00470.jpg 323,390,349,417,13 499,165,585,251,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00192.jpg 272,199,329,257,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00258.jpg 7,372,34,396,11 310,356,335,380,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00788.jpg 522,380,585,445,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00888.jpg 384,414,402,432,12 544,239,585,281,35
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00083.jpg 510,158,585,224,13 523,225,577,279,40
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00184.jpg 539,207,585,253,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01005.jpg 233,381,250,407,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00379.jpg 569,335,599,371,8 570,370,601,407,10 6,348,36,383,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00570.jpg 560,316,585,341,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00391.jpg 5,386,31,424,6 578,381,601,418,6
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00509.jpg 551,370,585,400,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00130.jpg 7,323,28,344,1 90,333,110,354,18 305,327,324,346,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00474.jpg 560,417,585,441,7 7,432,31,456,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01045.jpg 395,53,419,87,29
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00097.jpg 87,249,114,279,13 5,338,33,379,38 576,256,601,287,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00838.jpg 563,290,585,312,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01044.jpg 313,316,363,375,27
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00601.jpg 7,342,55,386,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00202.jpg 7,239,44,275,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00426.jpg 494,297,585,381,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00006.jpg 537,266,585,314,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00356.jpg 541,395,585,435,30 11,379,57,421,30
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00233.jpg 7,368,32,392,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00239.jpg 563,313,585,335,12 537,333,552,348,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00169.jpg 491,116,585,209,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00111.jpg -2,382,22,406,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00722.jpg 565,250,601,289,23 6,276,44,317,23
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00698.jpg 135,313,156,335,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00706.jpg 560,281,585,305,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00425.jpg 97,412,127,443,10 551,380,582,411,5 554,411,585,442,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00263.jpg 66,316,81,332,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00818.jpg 120,326,141,345,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00028.jpg 249,355,269,375,35 541,303,585,344,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00514.jpg 6,388,33,416,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00100.jpg 555,383,585,410,30
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00374.jpg 560,400,585,425,13 311,427,330,447,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00349.jpg 4,345,33,390,10 570,353,602,405,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00353.jpg 278,424,294,441,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00419.jpg 550,371,585,408,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00626.jpg 556,307,585,335,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00517.jpg 7,320,63,376,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00236.jpg 495,208,585,305,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00720.jpg 135,326,149,340,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00567.jpg 540,310,585,349,22
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00481.jpg 557,381,585,406,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00777.jpg 473,399,491,418,1 535,307,585,356,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00159.jpg 512,354,529,383,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00760.jpg 237,408,256,427,8 565,411,585,432,8 237,427,256,446,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00737.jpg 108,337,135,361,13 7,341,35,367,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00382.jpg 7,402,36,431,10 6,372,36,402,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00275.jpg 578,259,601,291,33
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00232.jpg 553,288,585,318,13 341,376,362,398,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00036.jpg 561,298,585,322,12 565,322,584,342,35
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00052.jpg 547,213,585,251,12 550,267,578,295,36
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00472.jpg 551,380,585,413,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00298.jpg 551,127,602,200,22 560,194,596,251,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00423.jpg 6,356,64,415,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00807.jpg 551,281,585,310,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00836.jpg 7,275,34,300,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00628.jpg 519,209,585,275,32
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00061.jpg 538,253,585,299,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00117.jpg 7,323,31,354,17 265,380,309,424,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00734.jpg 527,342,585,401,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01001.jpg 329,222,389,297,19
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00214.jpg 523,183,579,237,33
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00127.jpg 6,292,30,321,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00634.jpg 7,281,41,316,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01042.jpg 301,242,316,285,26 246,242,259,288,26 425,273,446,310,16 443,326,466,367,29
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00304.jpg 7,292,44,329,35
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00196.jpg 544,281,578,316,33 392,357,411,376,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00091.jpg 554,286,585,314,13 412,336,435,357,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00305.jpg 538,279,585,320,11 373,264,410,298,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00313.jpg 7,314,49,357,6
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00685.jpg 42,386,76,419,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00022.jpg 82,358,101,377,27
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00383.jpg 560,411,585,433,30 209,414,235,437,30
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00733.jpg 563,397,585,418,4 237,323,264,351,4 187,443,224,480,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00408.jpg 559,364,601,417,18 5,351,51,409,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00393.jpg 7,367,79,433,23
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00467.jpg 557,380,585,408,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00114.jpg 538,319,585,367,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00212.jpg 213,324,230,342,34 565,305,585,326,33
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00163.jpg 530,359,585,414,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00166.jpg 559,290,585,316,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00092.jpg 234,334,250,351,13 9,341,25,357,35 7,318,28,338,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00512.jpg 6,369,31,396,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00285.jpg 543,231,585,272,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00187.jpg 7,298,32,325,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00203.jpg 565,285,585,304,0
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00460.jpg 561,365,585,389,33 560,346,582,367,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00755.jpg 95,452,117,475,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00312.jpg 4,202,59,288,5 589,312,602,329,22
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00654.jpg 542,228,585,273,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00401.jpg 554,377,585,408,4 20,376,51,408,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00655.jpg 547,244,585,281,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00869.jpg 4,307,37,361,26 566,240,602,297,26
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00273.jpg 535,217,585,260,29
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00168.jpg 101,318,121,335,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00670.jpg 534,232,585,283,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00545.jpg 7,330,33,360,15
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00284.jpg 525,204,585,263,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00507.jpg 375,446,387,459,38 543,359,585,398,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00004.jpg 538,309,576,348,2 532,259,585,310,21
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00177.jpg 278,321,300,351,14 138,342,148,355,38 580,305,601,332,13 5,316,29,348,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00459.jpg 558,391,585,416,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00131.jpg 566,326,585,345,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00173.jpg 547,212,585,250,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00479.jpg 558,409,581,432,40
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00016.jpg 541,319,585,363,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00747.jpg 6,371,37,408,6 569,384,601,420,6
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00564.jpg 551,279,585,310,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00150.jpg 554,262,585,293,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00593.jpg 19,387,37,405,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01047.jpg 56,363,71,373,26 225,335,250,352,26
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00189.jpg 536,257,585,299,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00729.jpg 7,371,33,397,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00475.jpg 526,355,585,412,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00566.jpg 411,300,437,326,9 7,318,31,342,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00182.jpg 75,292,96,314,41 73,313,95,335,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00668.jpg 496,105,585,193,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00473.jpg 70,404,95,429,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00623.jpg 539,284,585,329,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00248.jpg 564,326,585,346,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00152.jpg 34,322,51,339,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00876.jpg 570,362,585,377,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00674.jpg 120,281,145,307,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00323.jpg 564,332,585,354,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00833.jpg 550,252,585,287,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00124.jpg 565,357,585,376,4 228,365,247,385,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00267.jpg 564,294,585,314,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01018.jpg 466,78,493,123,29 332,186,345,218,35
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00123.jpg 560,367,585,392,7 118,373,142,398,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00651.jpg 538,307,577,346,1 529,257,585,307,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00384.jpg 535,364,585,413,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00853.jpg 557,291,585,316,13 563,315,584,337,40
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00199.jpg 542,244,585,284,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00478.jpg 19,367,49,397,5 553,357,585,389,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00089.jpg 266,339,285,360,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00605.jpg 558,380,585,406,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00051.jpg 532,165,585,218,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00503.jpg 7,440,60,494,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00599.jpg 107,345,123,361,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00085.jpg 563,326,585,348,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00678.jpg 105,306,139,338,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00884.jpg 557,389,584,414,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00370.jpg 564,407,582,424,8 564,424,585,443,10 230,403,250,421,8 231,420,251,439,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01036.jpg 309,304,333,332,27
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00690.jpg 566,384,585,402,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00524.jpg 573,401,601,440,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00696.jpg 120,338,135,354,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00463.jpg 7,477,30,500,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01037.jpg 373,367,388,394,36
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00133.jpg 568,310,585,328,12 570,328,582,342,36
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01039.jpg 353,82,368,115,26 293,82,304,117,26 443,180,458,198,16 176,194,190,219,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00477.jpg 7,384,38,414,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00156.jpg 563,294,585,316,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00358.jpg 7,372,51,417,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00129.jpg 477,303,506,333,26
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00112.jpg 573,361,600,390,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00703.jpg 547,273,578,304,1 541,236,585,275,28
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00252.jpg 551,295,585,329,9 547,247,582,282,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00155.jpg 7,293,40,327,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00640.jpg 522,268,576,322,4 510,195,585,269,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00278.jpg 554,269,585,296,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00811.jpg 108,270,135,295,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00484.jpg 56,386,81,411,16
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00316.jpg 337,331,354,348,3 563,300,585,319,20 564,319,583,338,3 335,313,354,332,20
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00520.jpg 7,385,50,429,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01023.jpg 463,87,577,250,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00066.jpg 7,367,44,406,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00188.jpg 110,288,146,320,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00017.jpg 238,376,256,391,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00170.jpg 560,244,585,272,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00398.jpg 564,392,585,410,26 566,424,585,442,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00633.jpg 7,380,60,442,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00809.jpg 98,272,122,297,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00104.jpg 499,350,525,373,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00780.jpg 16,423,60,471,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00094.jpg 6,240,57,297,16 567,281,601,318,16
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00497.jpg 7,464,32,494,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00638.jpg 555,284,585,314,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01026.jpg 378,326,464,425,33 235,326,315,425,35 82,323,166,429,34 226,97,331,213,27
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00866.jpg 563,302,585,323,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00791.jpg 466,356,508,394,30
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00293.jpg 576,277,602,315,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00665.jpg 7,357,24,374,4 110,313,148,345,23
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00455.jpg 516,275,585,335,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00119.jpg 377,358,397,376,23 556,298,585,327,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00264.jpg 567,330,585,348,9 566,313,585,330,4 221,354,237,370,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00551.jpg 563,353,585,374,16
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00441.jpg 547,403,585,440,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00033.jpg 7,383,57,433,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00204.jpg 518,114,585,183,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00891.jpg 215,418,231,433,4 7,422,22,437,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00430.jpg 525,314,585,370,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00615.jpg 551,402,585,434,18 166,403,201,436,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00742.jpg 558,421,585,446,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00648.jpg 7,287,59,333,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00026.jpg 7,312,37,342,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00309.jpg 5,294,28,327,7 576,268,601,302,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00431.jpg 6,400,31,428,8 576,376,601,407,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00286.jpg 563,273,585,295,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00485.jpg 7,286,64,345,16
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00881.jpg 60,414,87,441,5 557,426,585,454,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00095.jpg 105,350,121,365,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00421.jpg 562,421,585,441,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00816.jpg 545,275,585,311,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00831.jpg 555,281,585,311,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00283.jpg 503,86,585,166,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00367.jpg 6,370,38,402,8 570,380,598,411,8 570,411,600,443,10 9,405,39,435,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00220.jpg 554,216,585,247,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00635.jpg 556,321,585,350,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00229.jpg 549,257,587,291,28
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00846.jpg 12,291,38,317,2 557,264,585,292,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00519.jpg 7,403,47,443,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00616.jpg 230,424,250,443,32 563,411,585,432,32
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00864.jpg 569,336,585,351,22
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00749.jpg 570,414,601,450,5 6,418,35,452,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00242.jpg 503,202,585,278,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00032.jpg 94,356,109,374,33 90,336,112,356,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00476.jpg 581,397,601,424,7 5,393,26,421,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00060.jpg 170,386,190,406,38 567,335,585,352,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00810.jpg 130,242,183,292,11 7,292,31,315,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00146.jpg 114,307,133,323,28 117,324,130,338,2 492,92,585,186,41
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00244.jpg 566,265,600,299,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00770.jpg 557,382,585,409,41 108,406,130,428,17
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00269.jpg 566,326,585,345,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00185.jpg 502,114,585,195,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00565.jpg 130,255,155,281,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00223.jpg 553,253,585,284,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00837.jpg 538,279,585,320,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00858.jpg 563,329,585,349,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00186.jpg 218,345,232,360,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01048.jpg 276,261,324,317,24
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00688.jpg 557,311,585,338,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00068.jpg 567,348,585,364,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00686.jpg 7,332,34,360,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00544.jpg 484,323,513,348,25 297,332,311,348,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00339.jpg 285,335,310,361,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00076.jpg 562,357,582,376,2 558,334,585,358,21
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00023.jpg 557,221,601,281,1 526,330,562,373,23
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00439.jpg 541,383,585,428,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00817.jpg 112,309,145,339,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00277.jpg 567,303,585,320,16
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00632.jpg 7,288,42,322,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00388.jpg 543,377,598,426,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00320.jpg 562,306,585,329,32 -4,332,15,354,32
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00272.jpg 557,239,601,292,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00671.jpg 550,298,578,326,2 544,264,585,299,26
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00380.jpg 262,424,280,443,10 567,428,585,446,10 566,410,584,427,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00504.jpg 7,452,31,476,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00879.jpg 554,384,585,415,32 31,406,62,437,32
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00042.jpg 525,228,585,284,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00191.jpg 101,308,128,333,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00821.jpg 167,335,185,354,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00008.jpg 557,322,585,350,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00216.jpg 129,335,148,354,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00458.jpg 563,374,585,399,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00754.jpg 128,450,158,480,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00528.jpg 572,257,600,288,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00237.jpg 560,274,585,298,14 156,295,181,320,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00608.jpg 544,281,585,319,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00386.jpg 567,418,585,435,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00782.jpg 6,345,45,381,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00138.jpg 585,303,602,328,15 4,136,44,203,15
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00053.jpg 554,253,585,282,15
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00193.jpg 503,170,585,251,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00444.jpg 106,401,142,435,20 551,403,585,435,20
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00829.jpg 158,303,176,320,1 501,192,585,283,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00839.jpg 573,225,601,259,2 6,277,31,310,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00695.jpg 561,293,585,316,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00350.jpg 91,412,116,437,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00065.jpg 547,286,585,324,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00375.jpg 565,395,585,414,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00751.jpg 126,431,148,452,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00077.jpg 544,310,582,345,9 536,264,585,310,20
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00176.jpg 566,314,585,334,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00167.jpg 281,329,297,345,2 7,338,25,356,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00253.jpg 497,101,585,185,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00705.jpg 557,260,585,287,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00483.jpg 574,403,601,443,7 5,387,34,427,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00773.jpg 550,326,585,361,12 421,390,440,408,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00070.jpg 524,228,585,283,23
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00372.jpg 552,369,585,402,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00894.jpg 547,363,585,400,12 554,402,583,431,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00344.jpg 524,313,585,375,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00369.jpg 300,413,316,428,8 299,428,316,444,10 569,418,585,433,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01027.jpg 376,88,403,128,16
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01029.jpg 333,142,468,310,28
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00179.jpg 96,319,112,334,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00772.jpg 568,420,585,435,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00653.jpg 561,288,585,312,12 566,317,582,335,35
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00392.jpg 7,336,57,389,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00340.jpg 566,412,584,430,14 566,395,585,414,33 566,412,584,430,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00560.jpg 539,131,585,177,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00716.jpg 538,254,575,293,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00854.jpg 529,193,585,248,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00010.jpg 527,272,585,331,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00090.jpg 554,325,585,352,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00271.jpg 573,259,601,289,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00160.jpg 38,294,71,325,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00680.jpg 544,299,585,340,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00661.jpg 561,304,585,326,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00194.jpg 532,232,585,280,28
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00557.jpg 7,351,41,381,23
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00412.jpg 551,379,585,414,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00403.jpg 565,424,585,443,42 282,427,300,446,42
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00675.jpg 558,294,585,320,13 279,382,306,408,38 561,319,580,339,40
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00020.jpg 557,325,585,351,23
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00406.jpg 421,413,441,433,18 6,390,42,424,30 179,421,202,441,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00251.jpg 7,323,77,395,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00395.jpg 558,394,585,421,6 25,394,55,426,6
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00007.jpg 555,308,585,338,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00245.jpg 567,332,585,350,10 283,335,300,352,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00487.jpg 50,460,64,475,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00078.jpg 503,156,585,231,29
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00228.jpg 538,224,585,270,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00050.jpg 561,257,585,282,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00311.jpg 43,322,69,348,8 559,297,585,323,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00180.jpg 557,291,585,319,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00254.jpg 491,205,541,255,2 561,279,585,302,23
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00667.jpg 135,337,155,357,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00355.jpg 7,408,32,433,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00530.jpg 560,304,585,329,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00625.jpg 535,286,585,336,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00333.jpg 543,294,585,338,14 59,314,104,362,14
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00845.jpg 560,314,585,337,22
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00043.jpg 564,224,601,271,12 571,271,598,305,36 5,337,25,364,35
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00218.jpg 570,332,585,346,33
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00730.jpg 562,392,585,415,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00225.jpg 533,203,585,253,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00851.jpg 543,237,585,278,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00322.jpg 571,248,601,281,5 6,308,35,341,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00515.jpg 7,274,65,330,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00181.jpg 539,227,585,272,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00779.jpg 7,370,44,404,24
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00656.jpg 11,353,30,372,15
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00147.jpg 559,318,585,343,20
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01002.jpg 236,282,282,343,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00209.jpg 528,218,574,264,33 519,159,585,218,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00647.jpg 39,391,56,408,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00059.jpg 538,304,585,350,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00224.jpg 501,142,571,211,28
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00347.jpg 541,414,585,453,30
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00491.jpg 7,431,51,484,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00496.jpg 7,406,38,437,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00867.jpg 5,322,39,366,26
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00702.jpg 98,338,112,355,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00105.jpg 1,332,37,367,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00415.jpg 568,417,585,433,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00480.jpg 548,337,585,373,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00306.jpg 29,357,57,383,20 557,319,585,345,20
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00015.jpg 556,323,585,351,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00241.jpg 553,304,585,335,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00413.jpg 550,364,585,402,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00171.jpg 547,292,585,329,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00247.jpg 276,344,292,360,5 569,340,585,356,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00110.jpg 566,371,585,389,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00279.jpg 44,367,86,410,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01016.jpg 224,269,253,311,21
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00148.jpg 531,268,585,316,30
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00893.jpg 563,366,585,387,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00143.jpg 7,142,60,194,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00135.jpg 120,226,165,270,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00249.jpg 560,318,585,343,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00850.jpg 560,283,585,307,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00693.jpg 554,291,585,321,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00402.jpg 556,380,585,408,42
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00639.jpg 7,383,44,420,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00461.jpg 531,200,585,251,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00531.jpg 568,327,585,344,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00144.jpg 113,338,127,352,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00451.jpg 563,424,585,444,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00644.jpg 7,390,48,433,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00774.jpg 560,392,585,416,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00294.jpg 4,307,32,344,22 571,247,602,289,22
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00019.jpg 546,321,579,353,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01028.jpg 67,195,107,249,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00663.jpg 535,233,585,278,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00136.jpg 554,304,585,332,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00058.jpg 556,299,585,330,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00255.jpg 7,382,66,441,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00436.jpg 568,403,585,420,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00012.jpg 543,276,585,317,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00011.jpg 539,256,577,302,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00259.jpg 551,250,585,284,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00261.jpg 541,190,585,236,35
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00116.jpg 541,193,585,237,35 12,359,25,381,17
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00175.jpg 546,259,585,300,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00844.jpg 557,252,585,281,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00373.jpg 559,388,585,414,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00446.jpg 554,377,582,402,17
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00292.jpg 563,320,585,342,8 56,339,79,361,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00103.jpg 547,265,585,301,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00172.jpg 116,357,137,376,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01007.jpg 243,174,308,259,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00081.jpg 6,379,19,395,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01020.jpg 507,128,522,154,29 382,110,389,140,26
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00270.jpg 571,212,601,252,2 5,254,33,293,2 571,251,601,292,41
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00417.jpg 7,340,83,409,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00456.jpg 7,314,49,357,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00319.jpg 549,306,585,342,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00542.jpg 566,334,585,352,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00125.jpg 519,237,585,304,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00035.jpg 322,333,349,360,13 7,361,36,390,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00404.jpg 6,315,42,361,4 566,315,601,358,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00118.jpg 7,383,50,428,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00257.jpg 541,253,585,294,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00039.jpg 532,191,579,237,35
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00771.jpg 4,407,43,443,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00063.jpg 568,379,585,395,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00552.jpg 571,386,585,399,8
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00440.jpg 523,373,585,427,23
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00798.jpg 299,414,314,429,2 530,338,585,386,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00872.jpg 89,316,114,341,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00852.jpg 545,211,585,249,29
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00287.jpg 554,281,585,312,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00835.jpg 563,315,585,334,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00714.jpg 551,237,585,271,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00109.jpg 562,367,585,389,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00310.jpg 6,323,27,348,42
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00151.jpg 562,282,585,304,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00072.jpg 568,346,585,363,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00107.jpg 10,407,40,437,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00433.jpg 7,402,50,443,25
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00282.jpg 560,314,585,337,29
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00231.jpg 557,275,585,303,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00778.jpg 551,421,585,455,39
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00154.jpg 101,311,120,331,35
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00101.jpg 542,308,585,350,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00113.jpg 7,313,59,364,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00887.jpg 564,397,585,418,36
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00120.jpg 7,184,88,262,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00400.jpg 544,364,585,401,26
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00128.jpg 560,301,585,327,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00699.jpg 127,313,149,336,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00297.jpg 564,337,585,355,26 243,336,264,354,26
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00281.jpg 560,297,585,323,2 558,275,584,298,31
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00005.jpg 500,124,585,211,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00178.jpg 128,346,143,361,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00492.jpg 562,401,585,423,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00723.jpg 506,322,522,338,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00047.jpg 7,351,27,370,26
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00378.jpg 8,275,98,364,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00508.jpg 552,376,585,405,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00606.jpg 559,380,585,406,42
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00141.jpg 557,288,585,316,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00334.jpg 224,343,259,378,15 557,330,585,358,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00502.jpg 404,421,424,442,17
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00805.jpg 551,280,585,313,28
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00762.jpg 6,287,51,332,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00882.jpg 7,414,63,468,5
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00609.jpg 181,389,206,414,4 560,385,585,409,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00217.jpg 539,202,585,249,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00498.jpg 7,366,41,399,17
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01050.jpg 68,402,87,437,3
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00134.jpg 535,227,585,277,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00448.jpg 16,454,32,471,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00041.jpg 559,367,585,392,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00659.jpg 554,326,585,357,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00161.jpg 120,338,133,351,34
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00766.jpg 7,376,32,405,15
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00897.jpg 566,399,585,418,42
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00505.jpg 554,364,585,395,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00122.jpg 278,376,294,393,7 569,378,585,395,7
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00527.jpg 562,323,585,346,10
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00000.jpg 554,312,585,338,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00874.jpg 535,294,585,342,31
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00102.jpg 541,238,585,277,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00056.jpg 129,331,152,354,1
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00299.jpg 540,187,585,232,42
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00808.jpg 133,351,166,385,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00341.jpg 528,353,585,405,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00046.jpg 493,95,585,187,12
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00712.jpg 545,274,585,313,9
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00295.jpg 4,316,27,351,6
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00438.jpg 569,422,585,438,41
-/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01025.jpg 244,136,259,176,36
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00219.jpg 528,205,585,258,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00211.jpg 82,311,110,338,11
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00001.jpg 541,254,585,296,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00717.jpg 566,330,585,348,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00411.jpg 64,457,104,503,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00410.jpg 7,467,50,509,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00048.jpg 551,307,585,336,13 224,397,254,427,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00250.jpg 6,321,55,376,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00087.jpg 559,330,585,357,6
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00064.jpg 568,339,585,357,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00142.jpg 570,345,585,359,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00898.jpg 560,387,585,411,4
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00719.jpg 557,296,585,324,2
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00132.jpg 7,232,67,286,18
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00317.jpg 551,287,585,319,32
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00447.jpg 519,317,585,376,13
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00488.jpg 7,464,24,481,38
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00099.jpg 552,376,585,405,20
-/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00827.jpg 555,335,585,368,14
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00498.jpg 10,482,54,526,17 11,586,60,634,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00133.jpg 748,408,770,432,12 750,432,767,450,36 414,415,431,432,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00089.jpg 350,447,376,474,5 741,438,770,468,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00733.jpg 313,426,348,462,4 247,583,295,632,38 742,523,770,551,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00725.jpg 10,599,31,621,39
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00228.jpg 709,295,770,356,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00647.jpg 52,515,74,537,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00221.jpg 716,420,770,470,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00196.jpg 517,471,541,496,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00206.jpg 6,8,79,103,13 742,197,786,261,33 732,118,793,196,13 521,471,534,493,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00704.jpg 743,411,770,438,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00391.jpg 7,508,41,558,6 761,502,792,551,6
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00751.jpg 166,568,196,596,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01083.jpg 410,229,430,246,26 262,229,280,251,26 548,123,562,170,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01276.jpg 506,463,538,553,39
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00602.jpg 762,555,790,586,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00386.jpg 747,550,770,573,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00094.jpg 8,316,76,392,16 747,370,791,419,16
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01128.jpg 735,183,782,260,24
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00254.jpg 647,270,712,336,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00304.jpg 10,385,59,434,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00244.jpg 9,390,48,429,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00267.jpg 718,380,740,402,36 743,387,770,414,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00524.jpg 7,530,46,584,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00073.jpg 15,453,37,475,2 312,476,334,497,9 17,475,37,495,9 312,457,333,477,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00338.jpg 739,426,768,453,2 243,397,277,427,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00087.jpg 736,435,770,470,6 130,421,164,456,6
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00363.jpg 12,525,56,568,10 10,483,53,526,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00384.jpg 702,416,766,480,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01016.jpg 295,354,333,410,21
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01262.jpg 371,313,456,422,28 273,442,319,498,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00046.jpg 649,126,770,247,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00134.jpg 705,299,770,365,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00226.jpg 702,224,770,290,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00309.jpg 7,388,38,431,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00867.jpg 740,389,792,452,26 7,424,52,482,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01059.jpg 451,282,459,317,33 695,300,706,337,33
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01229.jpg 673,504,687,556,26 666,421,687,489,26 462,299,473,361,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00180.jpg 734,384,770,421,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00071.jpg 730,437,770,473,24 736,474,764,502,1 736,503,763,529,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00224.jpg 705,263,770,333,9 651,276,705,341,1 660,188,752,278,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00430.jpg 691,414,770,488,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00566.jpg 347,489,367,508,38 541,395,575,429,9 10,419,42,451,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01215.jpg 155,458,205,514,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00610.jpg 748,553,769,574,4 743,525,770,553,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00857.jpg 675,262,770,349,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00418.jpg 10,537,43,566,22
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00502.jpg 532,555,559,582,17 10,556,38,584,17
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00787.jpg 683,422,770,497,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00460.jpg 737,456,767,484,12 739,481,770,512,33
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01177.jpg 609,292,636,335,29
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00518.jpg 10,526,58,574,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00379.jpg 751,488,791,536,10 749,442,789,489,8 9,458,48,504,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00339.jpg 376,442,409,476,1 718,414,770,463,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00192.jpg 358,262,434,339,12 188,414,212,437,17 10,440,30,461,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00091.jpg 730,377,770,414,13 183,382,227,422,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01060.jpg 276,427,319,475,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00162.jpg 479,433,498,452,17 10,430,28,448,17 310,444,328,462,17
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00079.jpg 740,459,770,489,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00536.jpg 10,428,40,458,17 707,479,723,495,38 310,452,336,478,17
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00755.jpg 125,595,155,625,38 646,294,770,418,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01076.jpg 60,423,75,477,26 77,420,89,472,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00482.jpg 31,564,51,590,17 9,528,44,570,17 774,566,790,587,13 464,526,498,564,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00674.jpg 158,371,192,405,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01253.jpg 325,490,380,563,3 329,391,381,462,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00275.jpg 761,342,792,384,33 7,410,31,445,33
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00051.jpg 701,218,770,287,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00700.jpg 705,348,770,406,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00001.jpg 125,494,181,552,38 712,335,770,390,13 722,388,763,432,40
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01104.jpg 517,166,529,203,26 419,233,434,251,26 332,234,347,252,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01138.jpg 548,472,576,520,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00323.jpg 287,437,314,464,10 743,438,770,466,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01025.jpg 322,180,342,232,36 304,178,322,231,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00850.jpg 738,373,770,405,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00408.jpg 736,479,792,549,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00691.jpg 332,490,353,512,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00038.jpg 748,444,770,464,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01105.jpg 522,168,738,448,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00077.jpg 717,408,766,455,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01067.jpg 57,412,100,483,37
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00293.jpg 6,410,35,456,7 759,365,793,415,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00111.jpg 738,465,770,497,3 -3,503,29,535,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00655.jpg 330,520,350,540,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00204.jpg 682,151,770,242,1 554,260,607,316,34
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01206.jpg 539,188,566,239,16 261,57,281,136,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00102.jpg 725,374,764,415,34 713,314,770,365,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00316.jpg 441,413,467,437,20 444,436,467,458,3 743,421,768,445,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00062.jpg 748,469,770,492,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00232.jpg 449,495,477,524,38 157,420,200,459,13 728,379,770,419,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00864.jpg 749,443,770,462,22
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00798.jpg 698,445,770,509,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00355.jpg 10,537,43,570,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00220.jpg 729,285,770,326,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00785.jpg 240,435,272,467,34 234,397,278,435,13 733,469,765,501,34
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00818.jpg 159,430,186,455,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00887.jpg 743,523,770,550,36
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00288.jpg 177,456,200,479,5 747,438,770,462,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01088.jpg 676,344,732,427,4 467,133,485,223,35 535,132,558,220,35 435,128,463,224,34 491,136,512,219,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00624.jpg 312,505,359,554,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01204.jpg 487,449,519,510,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01101.jpg 575,66,591,131,26 412,215,434,235,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00455.jpg 680,362,770,442,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00846.jpg 16,383,51,418,2 733,348,770,385,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00404.jpg 746,415,791,472,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00027.jpg 8,375,55,430,2 744,386,791,441,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00544.jpg 638,425,676,459,25 392,438,410,458,1 702,297,770,358,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01219.jpg 510,416,529,444,34
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00501.jpg 469,558,485,577,4 21,282,118,386,17 773,557,790,577,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00036.jpg 739,393,770,424,12 744,424,769,450,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01112.jpg 349,385,369,420,16
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01212.jpg 682,266,707,308,29 275,63,288,118,26 180,61,193,117,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01064.jpg 479,380,539,461,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00484.jpg 74,509,107,542,16 737,529,770,563,16
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00762.jpg 734,405,791,465,13 8,378,68,438,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00483.jpg 7,510,45,563,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00119.jpg 732,393,770,431,12 497,472,523,496,23
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00277.jpg 747,399,770,422,16
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00127.jpg 759,380,791,417,5 8,385,40,423,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00167.jpg 370,433,391,455,2 10,446,33,469,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00431.jpg 8,527,42,564,8 758,496,791,536,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00838.jpg 741,382,770,411,2 116,419,143,446,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00024.jpg 10,463,41,492,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00300.jpg 649,430,679,458,25 748,420,770,443,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00778.jpg 726,554,770,599,39
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01232.jpg 519,205,545,302,26 653,313,681,356,16 144,425,176,485,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01026.jpg 298,128,436,281,27 310,430,415,560,35 109,426,219,565,34
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00823.jpg 744,408,766,430,40 738,379,770,408,13 481,479,510,508,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00209.jpg 683,210,770,287,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01023.jpg 610,115,760,330,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00401.jpg 27,496,68,537,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00470.jpg 345,489,369,513,1 426,514,460,549,13 657,218,770,331,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01272.jpg 587,455,607,487,33 523,508,535,529,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01143.jpg 250,460,271,495,37 552,423,585,471,34
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00468.jpg 733,506,770,544,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00015.jpg 732,426,770,462,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00737.jpg 10,449,47,483,13 143,444,178,476,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01188.jpg 312,489,326,516,37
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01056.jpg 543,277,559,305,20
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00485.jpg 10,377,85,454,16
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01093.jpg 353,425,372,458,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01097.jpg 136,278,157,316,38 278,92,295,149,26 550,120,583,174,29 19,307,30,339,37
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00770.jpg 734,503,770,539,41 201,578,230,607,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00457.jpg 732,418,790,475,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00865.jpg 241,490,265,514,38 10,186,97,273,14
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00605.jpg 56,511,95,550,4 735,501,770,535,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00637.jpg 722,401,770,445,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00271.jpg 755,341,791,381,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00210.jpg 738,385,770,418,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00879.jpg 42,535,82,575,32 729,506,770,547,32
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01045.jpg 520,71,552,115,29
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00207.jpg 698,313,770,378,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00490.jpg 742,516,770,539,13 747,536,767,556,40
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01042.jpg 584,429,614,484,29 397,319,416,375,26 560,360,588,408,16 324,319,341,379,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00346.jpg 150,541,180,571,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00033.jpg 10,505,76,571,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00343.jpg 424,507,453,536,15
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00334.jpg 296,452,342,498,15
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00009.jpg 746,466,770,490,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01013.jpg 606,247,630,281,16 56,246,78,281,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00250.jpg 767,446,790,471,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01265.jpg 319,409,349,443,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00774.jpg 738,516,770,548,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00834.jpg 713,264,770,325,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00741.jpg 208,558,235,585,10 742,555,770,583,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00531.jpg 323,443,343,463,10 748,431,770,453,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00780.jpg 705,487,791,575,25 726,572,782,636,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00776.jpg 658,315,770,427,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01017.jpg 178,280,199,306,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00246.jpg 9,381,50,425,10 749,354,790,396,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00881.jpg 733,561,770,598,5 80,546,115,581,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00458.jpg 741,493,770,525,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00048.jpg 296,523,335,562,38 735,443,766,474,40 726,405,770,443,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01144.jpg 374,306,444,400,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01247.jpg 355,430,368,458,27 652,445,667,470,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00732.jpg 744,528,770,554,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00360.jpg 748,484,790,528,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01260.jpg 745,233,766,271,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00556.jpg 712,499,770,557,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00679.jpg 161,409,200,450,33
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00047.jpg 10,462,36,488,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01099.jpg 249,205,283,256,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00149.jpg 242,461,264,483,12 649,158,770,273,12 670,274,760,361,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00443.jpg 400,578,420,596,8 740,550,770,578,18 393,551,425,578,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01198.jpg 519,586,549,614,26 178,614,211,636,26 740,530,767,569,17
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01271.jpg 737,199,762,245,16 1,192,19,245,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00022.jpg 108,472,133,497,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00615.jpg 219,531,265,574,18 230,571,257,600,8 734,572,762,600,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01068.jpg 436,436,480,489,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00088.jpg 744,464,770,490,10 744,440,769,464,8 198,464,224,490,10 200,440,224,464,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00075.jpg 714,409,762,456,4 703,350,770,409,23
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01085.jpg 229,284,255,353,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00891.jpg 10,556,30,576,4 284,551,304,571,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01091.jpg 44,383,84,508,40
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00487.jpg 66,606,85,625,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00459.jpg 742,548,767,573,1 735,515,770,548,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00648.jpg 10,378,78,439,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00747.jpg 749,506,791,553,6 8,489,49,538,6
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01263.jpg 240,478,254,502,37
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00869.jpg 6,405,49,475,26 745,317,793,391,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01166.jpg 325,369,433,432,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00373.jpg 81,517,112,548,4 736,511,770,545,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01002.jpg 311,372,372,452,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01258.jpg 501,473,521,504,0
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00054.jpg 731,436,770,473,27 74,520,94,540,38 592,442,617,467,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00375.jpg 744,521,770,545,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00824.jpg 10,416,45,451,15
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00203.jpg 744,375,770,400,0
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01041.jpg 572,177,607,236,29 409,76,426,132,26 317,68,331,129,26 175,299,188,321,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00239.jpg 707,439,727,458,1 703,411,729,436,18 742,412,770,441,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00390.jpg 9,502,55,550,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01201.jpg 422,566,461,620,2 173,276,331,354,26 370,283,529,361,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00635.jpg 732,423,770,461,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00312.jpg 394,434,409,453,22
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00074.jpg 172,527,210,569,38 718,378,770,431,14 228,401,277,452,14
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01118.jpg 564,556,580,579,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00184.jpg 710,273,770,334,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00756.jpg 720,524,770,574,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00616.jpg 742,541,770,569,32 303,558,329,584,32
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01054.jpg 377,529,425,594,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00320.jpg -6,438,21,466,32 740,403,770,434,32
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00123.jpg 738,483,770,516,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00758.jpg 737,521,769,553,8 129,515,161,547,8 737,553,770,586,10 131,548,162,579,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01130.jpg 312,377,359,436,28 277,438,305,473,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00255.jpg 10,503,87,581,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00461.jpg 699,264,770,331,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00140.jpg 10,472,38,501,14
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00370.jpg 743,536,767,559,8 743,558,770,584,10 303,531,330,554,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00791.jpg 614,469,669,519,30 693,412,770,489,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00423.jpg 707,445,791,533,25 8,469,85,547,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00545.jpg 10,435,44,474,15
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00059.jpg 709,400,770,461,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00369.jpg 394,564,417,585,10 395,544,416,564,8 748,532,769,551,8 749,550,770,571,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00452.jpg 732,543,770,578,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00899.jpg 713,484,770,534,24
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00528.jpg 9,415,44,455,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01163.jpg 233,271,248,292,38 398,92,411,139,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00311.jpg 57,424,91,458,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00400.jpg 716,480,770,528,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00195.jpg 393,398,429,430,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00397.jpg 734,524,769,559,4 736,559,770,593,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01066.jpg 370,316,392,351,20 367,356,395,388,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00514.jpg 9,511,44,548,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00301.jpg 701,260,770,324,22 714,318,764,368,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00551.jpg 741,465,770,493,16
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01289.jpg 255,423,273,450,19
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00292.jpg 741,422,770,451,8 74,447,104,476,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00416.jpg 732,505,770,543,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00205.jpg 646,332,770,449,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00215.jpg 750,480,770,500,39
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00611.jpg 737,520,770,552,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00564.jpg 726,368,770,408,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00318.jpg 749,481,770,502,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00014.jpg 153,492,173,511,21
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00032.jpg 119,443,148,469,13 124,469,144,493,33
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01136.jpg 371,294,412,347,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00884.jpg 734,512,769,545,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00023.jpg 7,350,76,444,23 693,435,740,492,23
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01217.jpg 268,481,291,518,38 539,132,560,225,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00214.jpg 689,241,763,312,33
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01181.jpg 471,281,481,307,33 292,267,307,280,26 322,266,338,278,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00092.jpg 308,440,329,462,13 13,449,34,470,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00291.jpg 734,384,770,422,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01029.jpg 439,187,617,409,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01226.jpg 257,480,301,541,3 148,622,164,645,17 210,562,248,613,17
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00126.jpg 281,365,313,396,2 742,374,770,404,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00113.jpg 10,413,78,480,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00294.jpg 752,326,793,381,22
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00385.jpg 21,531,61,571,8 731,529,770,568,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00411.jpg 10,557,39,588,17 396,552,429,587,17
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00895.jpg 9,482,52,527,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01160.jpg 230,618,392,799,16
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00715.jpg 10,346,76,412,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00845.jpg 737,414,770,444,22
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01044.jpg 413,416,478,494,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00682.jpg 118,426,159,467,35 101,486,130,515,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00182.jpg 97,412,126,441,2 99,385,127,414,41
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00122.jpg 749,498,770,520,7 366,496,387,518,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00828.jpg 698,384,770,450,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00499.jpg 723,497,770,539,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01210.jpg 354,385,430,478,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01142.jpg 286,219,316,252,29 227,275,238,314,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00174.jpg 628,413,663,444,28 711,302,770,364,12 633,443,657,467,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00480.jpg 722,444,770,492,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00097.jpg 7,446,44,499,38 115,328,150,368,13 759,338,792,378,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00752.jpg 725,448,770,494,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00855.jpg 662,290,770,387,23 428,410,461,443,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00350.jpg 120,543,153,576,10 737,542,770,573,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00671.jpg 724,393,761,430,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00872.jpg 118,416,151,449,10 737,406,770,439,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00231.jpg 733,362,770,399,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00028.jpg 328,468,354,494,35 712,399,770,453,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00201.jpg 720,352,770,397,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00571.jpg 749,361,770,384,17
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00159.jpg 8,473,33,504,38 674,466,697,505,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00450.jpg 693,359,770,429,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00101.jpg 714,406,770,461,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01115.jpg 305,278,325,303,38 388,72,402,131,26 476,78,492,133,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00754.jpg 169,593,208,632,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00835.jpg 742,415,770,440,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00772.jpg 748,553,770,573,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00642.jpg 696,327,770,401,12 270,496,293,518,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01168.jpg 492,329,597,479,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00746.jpg 8,469,46,515,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00065.jpg 721,377,770,427,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00659.jpg 730,430,770,470,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00603.jpg 10,445,66,500,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00052.jpg 724,352,761,389,36
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00696.jpg 158,446,178,466,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00817.jpg 148,407,192,447,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00848.jpg 698,241,770,313,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00187.jpg 10,393,43,428,2 524,405,558,439,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00116.jpg 712,254,770,312,35 17,473,34,502,17
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00664.jpg 726,393,770,438,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00445.jpg 749,498,790,544,5 9,519,46,561,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01140.jpg 538,598,553,653,26 339,625,355,646,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00042.jpg 691,300,770,374,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01108.jpg 244,213,261,236,26 301,214,321,236,26 574,71,593,131,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00427.jpg 10,383,104,479,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00131.jpg 746,430,770,455,9 210,389,236,415,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00638.jpg 731,374,770,414,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01234.jpg 402,27,454,75,26 53,27,134,72,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00841.jpg 34,482,64,512,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00396.jpg 746,468,790,516,7 9,484,51,531,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00777.jpg 623,526,647,550,1 705,404,770,469,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01092.jpg 702,437,719,461,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00504.jpg 10,595,41,627,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00734.jpg 694,450,770,528,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00170.jpg 738,322,770,358,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00240.jpg 738,364,770,396,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00152.jpg 46,424,68,447,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00749.jpg 8,551,47,596,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00190.jpg 111,400,130,421,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00653.jpg 745,418,767,441,35 739,380,770,411,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00405.jpg 736,397,791,470,12 8,444,53,499,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01098.jpg 415,227,429,244,26 263,230,277,248,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00444.jpg 733,572,762,601,7 140,528,188,573,20 725,531,770,573,20
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00056.jpg 170,436,201,467,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00053.jpg 340,438,373,471,35 730,333,770,372,15
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00712.jpg 718,361,770,413,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00782.jpg 9,454,60,502,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01222.jpg 716,492,728,535,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00888.jpg 506,546,529,569,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00236.jpg 652,274,770,402,14
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00061.jpg 709,333,770,394,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00157.jpg 494,505,515,526,38 106,423,141,460,9 729,392,770,432,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00801.jpg 10,446,42,480,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00719.jpg 734,390,770,427,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00441.jpg 721,531,770,580,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00299.jpg 711,247,770,306,42
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00619.jpg 731,415,770,450,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00842.jpg 709,227,770,288,14
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00649.jpg 723,304,770,350,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01148.jpg 489,6,526,66,0 537,408,567,460,0
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00026.jpg 10,411,49,451,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00356.jpg 15,499,76,555,30 712,520,770,573,30
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00252.jpg 725,389,770,434,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00548.jpg 734,432,770,468,14
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00836.jpg 10,363,45,395,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00264.jpg 746,412,770,435,4 747,435,770,458,9 291,466,313,488,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00112.jpg 755,475,790,514,3 9,473,39,508,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00432.jpg 742,512,770,540,8 37,560,63,586,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00380.jpg 746,540,769,563,8 345,559,369,583,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00037.jpg 109,527,131,548,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00604.jpg 10,482,82,546,30
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00303.jpg 741,385,770,414,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00306.jpg 39,471,75,505,20
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00808.jpg 699,264,770,326,28 176,463,219,507,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00448.jpg 22,598,43,620,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01189.jpg 492,454,502,498,34
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01155.jpg 377,541,390,565,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00813.jpg 661,147,770,250,13 676,250,758,333,33
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00728.jpg 10,563,44,596,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01047.jpg 74,478,94,491,26 297,441,329,464,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00634.jpg 10,371,55,416,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00705.jpg 734,343,770,378,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00478.jpg 25,483,65,523,5 728,470,770,512,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01225.jpg 519,242,534,269,33 486,246,500,271,34 501,242,515,270,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00351.jpg 10,533,37,560,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00035.jpg 10,475,48,514,38 424,439,460,474,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00688.jpg 734,410,770,446,14 285,428,318,461,14
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00060.jpg 224,508,251,535,38 747,441,770,464,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00472.jpg 725,500,770,544,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00012.jpg 715,364,770,418,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01171.jpg 584,353,625,422,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00678.jpg 139,403,183,445,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00446.jpg 730,497,766,530,17
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00020.jpg 733,428,770,463,23
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00882.jpg 10,546,83,617,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00223.jpg 728,334,770,374,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01127.jpg 431,203,552,362,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01237.jpg 368,288,394,325,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01221.jpg 220,217,230,273,26 727,284,736,305,26 325,94,337,148,26 415,95,425,150,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01119.jpg 536,326,572,456,26 398,328,457,416,4 328,296,372,432,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01122.jpg 487,431,646,502,26 252,418,405,491,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01291.jpg 333,580,342,614,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00876.jpg 750,477,770,497,3 440,469,465,494,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01061.jpg 671,371,724,450,27 176,390,235,466,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00229.jpg 723,339,773,383,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00154.jpg 133,410,158,436,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00067.jpg 740,435,770,465,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00120.jpg 10,243,116,345,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00897.jpg 746,526,770,550,42
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00081.jpg 715,228,790,299,13 9,499,25,521,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01242.jpg 375,236,443,329,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00289.jpg 759,379,792,424,6
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00521.jpg 171,574,199,604,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00894.jpg 721,478,770,527,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00797.jpg 734,456,768,489,37 724,417,770,457,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00707.jpg 734,383,770,419,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00839.jpg 9,409,44,454,9 8,365,42,409,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00124.jpg 744,470,770,496,4 300,481,326,507,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00258.jpg 409,469,441,501,11 10,490,45,522,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01270.jpg 337,144,348,193,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01109.jpg 386,679,430,746,33
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00685.jpg 56,508,100,552,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00710.jpg 690,201,770,283,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01257.jpg 252,257,282,309,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00200.jpg 695,287,770,364,14 112,403,136,428,17 704,364,756,416,34 503,410,525,433,17
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00871.jpg 8,407,38,443,5 758,381,791,421,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00646.jpg 240,434,270,460,13 739,440,770,469,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00631.jpg 725,434,770,479,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00625.jpg 705,377,770,443,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00657.jpg 735,400,770,435,16
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00889.jpg 130,530,154,554,4 128,500,158,530,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00039.jpg 701,252,763,313,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00362.jpg 10,470,128,574,30
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01220.jpg 400,513,418,537,33
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00665.jpg 10,471,32,493,4 146,413,195,455,23
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00425.jpg 726,500,767,541,5 128,503,168,543,5 729,541,770,582,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00853.jpg 481,484,503,506,38 741,415,769,444,40
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00802.jpg 37,181,139,269,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00651.jpg 697,339,770,405,25 709,404,760,456,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00041.jpg 736,484,770,517,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00245.jpg 373,442,395,464,10 747,438,770,461,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00359.jpg 334,560,359,585,8 746,559,770,583,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00698.jpg 178,413,206,442,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00115.jpg 150,523,171,545,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00771.jpg 720,478,770,523,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00104.jpg 729,462,770,499,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00859.jpg 731,386,770,423,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00773.jpg 555,514,579,538,1 724,430,770,476,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00341.jpg 696,465,770,533,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00395.jpg 735,519,770,555,6 33,519,73,561,6
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00274.jpg 734,395,770,430,0
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00106.jpg 687,369,770,443,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00043.jpg 752,357,788,402,36 7,444,34,480,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00530.jpg 152,401,187,435,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00479.jpg 735,539,765,569,40
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00268.jpg 744,396,770,422,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00295.jpg 763,364,793,411,6 6,417,36,463,6
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00096.jpg 734,420,770,458,17
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00701.jpg 716,396,762,442,2 706,333,770,396,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00135.jpg 159,298,218,356,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00554.jpg 733,472,770,507,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01173.jpg 406,354,530,519,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00703.jpg 713,311,770,363,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01001.jpg 433,293,512,391,19
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00463.jpg 10,628,40,659,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00058.jpg 732,394,770,435,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01117.jpg 321,200,467,425,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01120.jpg 409,381,459,449,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00283.jpg 663,114,770,219,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01121.jpg 165,128,183,156,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00019.jpg 719,423,762,465,2 712,366,770,422,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00694.jpg 737,411,770,443,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00466.jpg 729,440,766,475,35 22,494,46,518,34
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01158.jpg 400,365,489,466,20 405,463,489,563,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01058.jpg 563,441,593,485,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01195.jpg 346,308,448,433,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00117.jpg 349,500,407,558,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00273.jpg 705,286,770,343,29
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00016.jpg 712,421,770,478,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00644.jpg 10,514,64,571,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00021.jpg 718,388,770,437,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01129.jpg 645,482,667,510,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00763.jpg 731,514,770,547,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00805.jpg 726,369,770,412,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00760.jpg 312,538,337,563,8 744,542,770,569,8 312,563,337,587,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00366.jpg 743,574,770,597,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00099.jpg 727,495,770,533,20
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00171.jpg 721,385,770,433,9 720,335,770,385,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00261.jpg 712,250,770,311,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00212.jpg 709,381,737,408,12 744,402,770,430,33
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00156.jpg 741,388,770,417,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00066.jpg 10,483,59,535,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00833.jpg 724,332,770,378,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00003.jpg 183,466,205,489,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00453.jpg 729,332,792,407,28 7,407,47,457,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01090.jpg 520,132,548,171,16
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00612.jpg 53,374,129,451,17
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00368.jpg 14,460,63,510,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00017.jpg 647,302,770,408,30 314,495,337,515,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00202.jpg 611,319,656,365,14 10,315,58,363,14
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00095.jpg 136,437,164,461,19
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00860.jpg 679,144,770,231,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01243.jpg 331,189,426,354,16
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00784.jpg 10,576,131,701,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00672.jpg 9,265,76,328,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00868.jpg 464,470,484,488,26 750,450,770,469,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00298.jpg 726,168,793,264,22
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00194.jpg 701,306,770,369,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01275.jpg 723,672,760,687,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01039.jpg 583,237,603,261,16 386,109,401,154,26 232,256,251,289,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00849.jpg 12,412,47,447,33
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00508.jpg 727,495,770,534,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00242.jpg 663,267,770,366,13 316,388,338,413,15
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00281.jpg 735,363,769,393,31 737,392,770,425,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00844.jpg 734,332,770,370,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01005.jpg 307,502,329,536,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00025.jpg 172,422,213,459,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00693.jpg 730,383,770,423,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00178.jpg 169,456,189,476,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00557.jpg 195,461,243,508,13 10,462,54,502,23
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00086.jpg 707,298,770,361,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00186.jpg 287,433,310,456,12 288,455,306,474,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01170.jpg 492,330,508,389,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00284.jpg 691,269,770,347,12 704,347,762,404,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00599.jpg 141,454,163,476,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00198.jpg 122,438,140,456,36 119,412,143,435,14
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00641.jpg 10,425,52,467,17
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00795.jpg 10,612,58,663,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00689.jpg 738,485,770,514,25 438,488,469,516,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00668.jpg 653,139,770,254,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00723.jpg 716,360,770,408,23 150,366,206,414,23 666,424,687,446,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00374.jpg 738,527,770,560,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00257.jpg 554,388,594,423,25 712,334,770,387,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00169.jpg 647,153,770,276,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00063.jpg 748,499,770,521,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00297.jpg 743,444,770,468,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00852.jpg 718,278,770,328,29
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00738.jpg 10,605,39,634,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00130.jpg 119,439,146,467,18 10,426,37,453,1 402,431,427,456,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00683.jpg 746,450,770,475,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00467.jpg 734,501,770,537,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00398.jpg 745,538,769,560,4 743,517,770,540,26 746,558,770,582,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00377.jpg 758,543,791,582,10 8,532,42,573,10 10,490,43,531,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00305.jpg 708,368,770,422,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00247.jpg 749,448,770,469,5 364,453,385,474,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00628.jpg 683,276,770,363,32
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00189.jpg 706,339,770,394,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00720.jpg 178,429,197,448,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00367.jpg 750,501,787,541,8 9,488,50,530,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00714.jpg 726,313,770,357,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01245.jpg 445,270,454,311,34 475,273,484,311,33
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00233.jpg 10,485,43,517,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00263.jpg 87,417,107,437,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01179.jpg 706,205,774,299,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00565.jpg 172,336,205,370,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00161.jpg 158,445,176,462,34
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00357.jpg 735,524,770,560,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01020.jpg 503,146,513,185,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01151.jpg 418,103,429,148,26 178,141,192,195,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00527.jpg 740,426,770,456,10 225,420,255,450,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00050.jpg 744,373,765,400,34
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00251.jpg 10,425,102,520,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00690.jpg 746,506,770,529,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00107.jpg 14,536,53,576,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01077.jpg 320,436,334,496,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00730.jpg 740,517,770,547,3 153,443,199,490,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00803.jpg 705,322,770,387,9 704,232,768,295,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00831.jpg 731,371,770,410,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00789.jpg 742,516,770,545,14
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00078.jpg 662,206,770,305,29 251,462,272,483,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00262.jpg 518,282,577,341,36
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00542.jpg 746,440,770,464,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00761.jpg 10,541,70,597,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01018.jpg 437,245,454,288,35 421,247,436,288,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01199.jpg 267,293,354,408,3 272,455,355,568,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01049.jpg 325,217,391,296,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00230.jpg 737,398,765,426,1 731,426,770,463,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00352.jpg 743,549,770,576,6
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01075.jpg 297,115,312,182,26 131,265,153,302,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00319.jpg 91,436,134,481,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00509.jpg 726,487,770,527,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01125.jpg 277,239,339,332,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00382.jpg 750,496,788,535,8 9,490,48,530,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01074.jpg 300,523,321,551,34
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01230.jpg 558,277,679,443,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00177.jpg 764,402,792,437,13 182,451,195,468,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00722.jpg 744,330,791,381,23
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00378.jpg 11,362,130,480,10 10,242,133,362,8
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00451.jpg 741,558,770,585,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00870.jpg 750,441,770,461,5 289,456,310,477,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00821.jpg 747,444,770,466,5 221,442,244,466,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00680.jpg 184,439,212,467,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00816.jpg 718,363,770,410,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01300.jpg 400,298,409,331,34 422,295,429,328,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00702.jpg 129,446,148,468,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00420.jpg 747,542,770,565,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00516.jpg 10,275,68,333,34
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00440.jpg 689,492,770,562,23
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00146.jpg 648,122,770,246,41 150,404,175,426,28 154,427,172,445,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00249.jpg 738,419,770,452,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01203.jpg 327,354,365,407,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00018.jpg 739,455,770,486,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00278.jpg 737,389,766,419,40
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00512.jpg 758,490,791,530,5 8,486,41,522,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00775.jpg 724,483,770,529,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01015.jpg 355,439,394,488,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00166.jpg 736,382,770,416,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00340.jpg 745,543,769,567,14 745,543,769,567,14
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00422.jpg 40,567,65,591,23
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00639.jpg 10,504,58,553,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01094.jpg 306,188,415,319,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00593.jpg 25,510,49,534,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00406.jpg 741,503,790,551,30
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00413.jpg 724,480,770,529,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00496.jpg 12,494,53,536,8 10,535,51,576,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00898.jpg 738,510,770,542,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00125.jpg 683,313,770,401,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00613.jpg 733,561,770,598,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00810.jpg 172,319,242,385,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00477.jpg 10,506,50,546,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01193.jpg 304,262,320,289,38 487,211,501,246,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01266.jpg 499,298,659,504,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00114.jpg 708,421,770,484,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00736.jpg 742,550,770,577,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01006.jpg 270,403,309,455,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00809.jpg 130,359,161,392,14
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00837.jpg 709,368,770,422,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01218.jpg 50,142,88,172,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01264.jpg 393,376,420,414,21
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00118.jpg 10,505,66,564,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00630.jpg 704,315,770,385,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00640.jpg 672,257,770,355,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00623.jpg 710,374,770,434,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00158.jpg 744,414,770,440,41
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00681.jpg 744,434,770,460,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00110.jpg 745,489,770,513,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00100.jpg 281,507,319,541,30
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00011.jpg 700,265,770,342,21
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00438.jpg 749,556,770,577,41 441,559,462,580,41
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00575.jpg 10,474,42,506,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01228.jpg 352,28,367,97,26 105,241,126,274,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00515.jpg 10,361,86,435,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00433.jpg 10,529,66,583,25
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00766.jpg 10,495,43,533,15
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00147.jpg 736,419,770,452,20
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00237.jpg 738,361,770,393,14
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00165.jpg 317,292,373,340,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00663.jpg 704,307,770,367,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01269.jpg 593,358,702,513,33
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00742.jpg 735,554,770,587,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00523.jpg 750,512,791,555,10 8,515,50,562,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01285.jpg 329,129,418,251,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00330.jpg 704,313,770,381,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01052.jpg 570,213,591,252,16 325,49,339,109,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01065.jpg 622,417,648,463,33
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01293.jpg 477,277,588,405,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00393.jpg 10,484,105,571,23
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00806.jpg 745,407,770,432,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00606.jpg 736,501,770,535,42
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00057.jpg 724,418,770,467,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00371.jpg 10,521,66,577,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00129.jpg 724,379,770,426,9 628,399,667,439,26
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00248.jpg 104,452,129,479,5 743,429,770,456,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01290.jpg 500,242,511,272,34
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00866.jpg 742,398,770,426,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00474.jpg 10,569,41,600,7 738,549,770,581,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00675.jpg 368,503,403,538,38 739,421,764,447,40
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01183.jpg 274,542,299,577,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00006.jpg 707,350,770,414,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00622.jpg 724,424,770,465,22
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00740.jpg 46,513,91,558,5 628,554,651,577,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00322.jpg 8,406,47,449,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00886.jpg 745,540,770,565,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00005.jpg 658,164,770,278,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01012.jpg 326,232,434,375,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01003.jpg 593,464,630,517,33
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00497.jpg 10,611,43,651,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00476.jpg 7,518,35,555,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00383.jpg 276,546,310,575,30
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00481.jpg 734,502,770,535,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00034.jpg 737,430,770,460,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00083.jpg 672,208,770,296,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01051.jpg 452,361,471,399,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00827.jpg 731,442,770,485,14 349,473,380,510,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01200.jpg 526,467,548,499,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00449.jpg 729,448,770,486,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00153.jpg 10,409,41,440,35
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00421.jpg 740,554,770,581,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00825.jpg 745,378,770,404,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00503.jpg 10,579,79,650,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00049.jpg 727,354,770,397,12 735,397,767,430,37
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00259.jpg 725,329,770,374,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00310.jpg 8,426,36,459,42
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00137.jpg 702,324,770,384,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00163.jpg 698,473,770,545,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01249.jpg 391,354,419,382,28
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00280.jpg 642,392,671,422,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00387.jpg 729,484,790,547,30
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00885.jpg 38,403,104,469,17 10,532,89,611,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00494.jpg 672,300,770,395,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00030.jpg 10,511,36,537,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00863.jpg 9,413,42,448,42 757,378,790,414,42
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00004.jpg 709,407,758,459,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00417.jpg 10,448,110,539,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00667.jpg 178,444,205,471,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00188.jpg 146,379,193,422,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01286.jpg 597,275,611,296,16
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00148.jpg 699,353,770,416,30
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01036.jpg 407,400,439,438,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00183.jpg 730,369,770,406,19
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00080.jpg 719,381,770,432,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00317.jpg 726,378,770,421,32
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00376.jpg 728,510,770,552,6
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01028.jpg 89,257,142,328,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00896.jpg 732,412,770,450,15
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00173.jpg 720,279,770,329,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00601.jpg 10,450,73,508,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00471.jpg 742,491,770,520,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00660.jpg 734,422,770,458,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00475.jpg 693,468,770,543,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00287.jpg 729,370,770,411,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01281.jpg 271,355,301,407,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01299.jpg 590,464,640,530,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00673.jpg 10,406,70,459,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01186.jpg 692,413,716,446,27
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00633.jpg 10,501,80,582,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00010.jpg 694,358,770,436,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01274.jpg 708,660,725,686,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00353.jpg 366,559,387,581,10 746,554,770,578,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00276.jpg 34,464,78,517,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00008.jpg 733,424,770,461,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00662.jpg 725,440,770,481,22
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00068.jpg 747,458,770,479,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00185.jpg 661,150,770,257,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00211.jpg 108,410,146,445,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00175.jpg 719,341,770,396,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00493.jpg 714,450,770,501,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00807.jpg 726,370,770,408,11
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00570.jpg 737,416,770,449,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00410.jpg 10,615,66,671,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00045.jpg 10,504,72,597,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00783.jpg 10,568,53,614,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00193.jpg 663,224,770,331,14
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00168.jpg 134,419,160,442,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00428.jpg 741,543,770,572,7 129,548,157,576,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00313.jpg 10,414,65,470,6
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00181.jpg 710,299,770,359,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00349.jpg 6,455,44,514,10
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00729.jpg 10,489,44,523,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00270.jpg 7,335,44,386,2
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00721.jpg 736,354,770,385,13
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00144.jpg 149,445,168,464,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01153.jpg 163,384,208,454,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00456.jpg 10,414,65,470,3
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00132.jpg 10,306,89,377,18
+/home/wilson/workstation/my_traffic_tf2/data_800x800_chn/01000~01999/chn_01167.jpg 397,452,437,506,16
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00007.jpg 731,406,770,445,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00692.jpg 729,357,770,397,15
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00307.jpg 631,454,663,487,17
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00435.jpg 742,535,770,564,9
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00699.jpg 168,413,197,443,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00567.jpg 711,409,770,460,22
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00348.jpg 732,524,770,562,5
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00609.jpg 738,507,770,539,4
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00084.jpg 148,523,175,551,38
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00893.jpg 742,482,770,510,12
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00486.jpg 10,519,65,574,7
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00225.jpg 702,268,770,334,1
+/home/wilson/workstation/my_traffic_tf2/data_800x800/FullIJCNN2013_800x800/00044.jpg 740,403,770,433,12

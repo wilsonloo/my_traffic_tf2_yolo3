@@ -24,7 +24,8 @@ __C.YOLO                        = edict()
 
 # Set the class name
 __C.YOLO.CLASSES                = "./data/classes/FullIJCNN2013.names"
-__C.YOLO.ANCHORS                = "./data/anchors/basline_anchors.txt"
+__C.YOLO.ANCHORS                = "./data/anchors/my_traffic_anchors.txt"
+#__C.YOLO.ANCHORS                = "./data/anchors/basline_anchors.txt"
 __C.YOLO.MOVING_AVE_DECAY       = 0.9995
 __C.YOLO.STRIDES                = [8, 16, 32]
 __C.YOLO.ANCHOR_PER_SCALE       = 3
@@ -46,7 +47,7 @@ __C.TRAIN.WARMUP_EPOCHS         = 2
 __C.TRAIN.FISRT_STAGE_EPOCHS    = 20
 __C.TRAIN.SECOND_STAGE_EPOCHS   = 30
 #__C.TRAIN.INITIAL_WEIGHT        = "./checkpoint/yolov3_coco_demo.ckpt"
-__C.TRAIN.INITIAL_WEIGHT        = "./checkpoint/yolov3_800_test_loss_18.3550.ckpt-255"
+__C.TRAIN.INITIAL_WEIGHT        = "./checkpoint/yolov3_800_chn_test_loss_4.9787.ckpt-172"
 
 
 # TEST options
@@ -54,14 +55,14 @@ __C.TEST                        = edict()
 
 __C.TEST.ANNOT_PATH             = "./data/dataset/FullIJCNN2013-val.dataset"
 __C.TEST.BATCH_SIZE             = 2
-__C.TEST.INPUT_SIZE             = 608
+__C.TEST.INPUT_SIZE             = 800 
 __C.TEST.DATA_AUG               = False
 __C.TEST.WRITE_IMAGE            = True
 __C.TEST.WRITE_IMAGE_PATH       = "./data/detection/"
 __C.TEST.WRITE_IMAGE_SHOW_LABEL = True
 #__C.TEST.WEIGHT_FILE            = "./checkpoint/yolov3_test_loss=11.6093.ckpt-13"
-__C.TEST.WEIGHT_FILE            = "./checkpoint/yolov3_800_test_loss_19.8353.ckpt-110"
+__C.TEST.WEIGHT_FILE            = "./checkpoint/yolov3_800_chn_test_loss_4.9787.ckpt-172"
 __C.TEST.SHOW_LABEL             = True
-__C.TEST.SCORE_THRESHOLD        = 0.1
+__C.TEST.SCORE_THRESHOLD        = 0.05
 __C.TEST.IOU_THRESHOLD          = 0.45
 
