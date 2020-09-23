@@ -91,7 +91,6 @@ def draw_bbox(image, bboxes, classes=read_class_names(cfg.YOLO.CLASSES), show_la
 
         if show_label:
             bbox_mess = '%s: %.4f' % (classes[class_ind], score)
-            print("score is >>>>>>>>>>>", score)
             t_size = cv2.getTextSize(bbox_mess, 0, fontScale, thickness=bbox_thick//2)[0]
             cv2.rectangle(image, c1, (c1[0] + t_size[0], c1[1] - t_size[1] - 3), bbox_color, -1)  # filled
 

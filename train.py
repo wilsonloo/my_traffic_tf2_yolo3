@@ -159,11 +159,15 @@ class YoloTrain(object):
                 found = re.sub(r'.*yolov3_800_chn_test_loss_(.*)\.ckpt-(\d+)', r'\1:\2', self.initial_weight)
                 foundList = found.split(':')
                 last_test_loss, last_epoch = float(foundList[0]), int(foundList[1])
-                ckpt_list.append([self.initial_weight+" @", last_test_loss, True, 0])
+                ckpt_list.append([self.initial_weight+" @", last_test_loss])
             except:
                 print("=> faield to capture the last epoch in %s" % self.initial_weight)
                 last_epoch = 0
 
+        # 最小的损失率
+        min_loss_checkpoint = None
+        min_loss_value = None
+        min_loss_bak_epoch = None
         
         # 总的epoch
         total_epoch = self.first_stage_epochs+self.second_stage_epochs
@@ -216,7 +220,7 @@ class YoloTrain(object):
             print("current-test-lost: %.4f" % test_epoch_loss)
             
             if test_epoch_loss != None and math.isnan(float(test_epoch_loss)) == False:
-                if last_test_loss == None or test_epoch_loss < last_test_loss:
+                if last_test_loss == None or test_epoch_loss < (last_test_loss + 1.0): # 有个1.0的容忍
                     # 开始存档
                     ckpt_file = "./checkpoint/yolov3_800_chn_test_loss_%.4f.ckpt" % test_epoch_loss
                     log_start_time = time.localtime(time.time())
@@ -224,9 +228,19 @@ class YoloTrain(object):
                     print("=> Epoch: %d(%d/%d) Time: %s Train loss: %.2f Test loss: %.2f Saving %s ..."
                                     %(global_epoch, epoch, total_epoch, log_time, train_epoch_loss, test_epoch_loss, ckpt_file))
                     self.saver.save(self.sess, ckpt_file, global_step=global_epoch)
+                    
+                    # 实际的快照名称
+                    ckpt_file_path = ckpt_file+"-"+str(global_epoch)
+
+                    # 记录最小损失的快照，为避免被框架定时删除，再次进行存档
+                    if min_loss_value == None or test_epoch_loss < min_loss_value:
+                        min_loss_value = test_epoch_loss
+                        min_loss_checkpoint = ckpt_file_path
+                        min_loss_bak_epoch = epoch + 5
+                        
                      
                     # 记录该快照
-                    ckpt_list.append([ckpt_file+"-"+str(global_epoch), test_epoch_loss, test_epoch_loss < last_test_loss, epoch+8])
+                    ckpt_list.append([ckpt_file_path, test_epoch_loss])
                     ckpt_list.sort(key=lambda elem: elem[1])
                     if len(ckpt_list) > limit:
                         ckpt_list, remove_list = ckpt_list[:limit], ckpt_list[limit:]
@@ -241,14 +255,13 @@ class YoloTrain(object):
                     if len(ckpt_list) > 0:
                         for k in range(len(ckpt_list)-1, -1, -1):
                             elem = ckpt_list[k]
-                            isLessLoss = elem[2]
-                            epoch_to_bak = elem[3]
-                            if isLessLoss and epoch_to_bak > 0 and epoch >= epoch_to_bak:
-                                os.system("cp "+elem[0]+".* ./bak")
-                                elem[3] = 0
-                                print(elem[0]+" backuped")
                             print("current ranking:", elem[0])
-
+                            
+                    if min_loss_checkpoint != None and min_loss_value != None and min_loss_bak_epoch != None:
+                        if epoch >= min_loss_bak_epoch:
+                            os.system("cp "+min_loss_checkpoint+".* ./checkpoint/bak")
+                            print(min_loss_checkpoint, " backuped")
+                            min_loss_bak_epoch = None
 
 if __name__ == '__main__': YoloTrain().train()
 
