@@ -220,7 +220,7 @@ class YoloTrain(object):
             print("current-test-lost: %.4f" % test_epoch_loss)
             
             if test_epoch_loss != None and math.isnan(float(test_epoch_loss)) == False:
-                if last_test_loss == None or test_epoch_loss < (last_test_loss + 1.0): # 有个1.0的容忍
+                if last_test_loss == None or test_epoch_loss < (last_test_loss + 0.5): # 有容忍
                     # 开始存档
                     ckpt_file = "./checkpoint/yolov3_800_chn_test_loss_%.4f.ckpt" % test_epoch_loss
                     log_start_time = time.localtime(time.time())
@@ -249,7 +249,7 @@ class YoloTrain(object):
                             loss = elem[1]
                             if last_test_loss == None or loss > last_test_loss:
                                 cmd = "rm "+fname+"*"
-                                print("calling ", cmd)
+                                print("calling  --- ", cmd)
                                 os.system(cmd)
                     
                     if len(ckpt_list) > 0:
