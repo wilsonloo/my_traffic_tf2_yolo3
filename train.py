@@ -156,7 +156,7 @@ class YoloTrain(object):
         last_test_loss = None
         if not from_scratch:
             try:
-                found = re.sub(r'.*yolov3_800_chn_test_loss_(.*)\.ckpt-(\d+)', r'\1:\2', self.initial_weight)
+                found = re.sub(r'.*yolov3_800_66_chn_test_loss_(.*)\.ckpt-(\d+)', r'\1:\2', self.initial_weight)
                 foundList = found.split(':')
                 last_test_loss, last_epoch = float(foundList[0]), int(foundList[1])
                 ckpt_list.append([self.initial_weight+" @", last_test_loss])
@@ -171,97 +171,101 @@ class YoloTrain(object):
         
         # 总的epoch
         total_epoch = self.first_stage_epochs+self.second_stage_epochs
-        for epoch in range(1, 1+total_epoch):
-            global_epoch = last_epoch + epoch
-            if epoch <= self.first_stage_epochs:
-                train_op = self.train_op_with_frozen_variables
-            else:
-                train_op = self.train_op_with_all_variables
+        for loop_index in range(0, 6):
+            last_epoch = last_epoch + loop_index * total_epoch
+            for epoch in range(1, 1+total_epoch):
+                global_epoch = last_epoch + epoch
+                if epoch <= self.first_stage_epochs:
+                    train_op = self.train_op_with_frozen_variables
+                else:
+                    train_op = self.train_op_with_all_variables
 
-            pbar = tqdm(self.trainset)
-            train_epoch_loss, test_epoch_loss = [], []
+                pbar = tqdm(self.trainset)
+                train_epoch_loss, test_epoch_loss = [], []
 
-            for train_data in pbar:
-                _, summary, train_step_loss, global_step_val = self.sess.run(
-                    [train_op, self.write_op, self.loss, self.global_step],feed_dict={
-                                                self.input_data:   train_data[0],
-                                                self.label_sbbox:  train_data[1],
-                                                self.label_mbbox:  train_data[2],
-                                                self.label_lbbox:  train_data[3],
-                                                self.true_sbboxes: train_data[4],
-                                                self.true_mbboxes: train_data[5],
-                                                self.true_lbboxes: train_data[6],
-                                                self.trainable:    True,
-                })
+                for train_data in pbar:
+                    _, summary, train_step_loss, global_step_val = self.sess.run(
+                        [train_op, self.write_op, self.loss, self.global_step],feed_dict={
+                                                    self.input_data:   train_data[0],
+                                                    self.label_sbbox:  train_data[1],
+                                                    self.label_mbbox:  train_data[2],
+                                                    self.label_lbbox:  train_data[3],
+                                                    self.true_sbboxes: train_data[4],
+                                                    self.true_mbboxes: train_data[5],
+                                                    self.true_lbboxes: train_data[6],
+                                                    self.trainable:    True,
+                    })
 
-                train_epoch_loss.append(train_step_loss)
-                self.summary_writer.add_summary(summary, global_step_val)
-                pbar.set_description("=> Epoch: %d(%d/%d) train loss: %.2f" % (global_epoch, epoch, total_epoch, train_step_loss))
+                    train_epoch_loss.append(train_step_loss)
+                    self.summary_writer.add_summary(summary, global_step_val)
+                    pbar.set_description("=> Epoch: %d(%d/%d) train loss: %.2f" % (global_epoch, epoch, total_epoch, train_step_loss))
 
-            for test_data in self.testset:
-                test_step_loss = self.sess.run( self.loss, feed_dict={
-                                                self.input_data:   test_data[0],
-                                                self.label_sbbox:  test_data[1],
-                                                self.label_mbbox:  test_data[2],
-                                                self.label_lbbox:  test_data[3],
-                                                self.true_sbboxes: test_data[4],
-                                                self.true_mbboxes: test_data[5],
-                                                self.true_lbboxes: test_data[6],
-                                                self.trainable:    False,
-                })
+                for test_data in self.testset:
+                    test_step_loss = self.sess.run( self.loss, feed_dict={
+                                                    self.input_data:   test_data[0],
+                                                    self.label_sbbox:  test_data[1],
+                                                    self.label_mbbox:  test_data[2],
+                                                    self.label_lbbox:  test_data[3],
+                                                    self.true_sbboxes: test_data[4],
+                                                    self.true_mbboxes: test_data[5],
+                                                    self.true_lbboxes: test_data[6],
+                                                    self.trainable:    False,
+                    })
 
-                test_epoch_loss.append(test_step_loss)
+                    test_epoch_loss.append(test_step_loss)
 
-            # 记录该快照
-            limit = 6
-            
-            # 如果列表未满，且小于最大的损失率才添加
-            train_epoch_loss, test_epoch_loss = np.mean(train_epoch_loss), np.mean(test_epoch_loss)
-            print("current-test-lost: %.4f" % test_epoch_loss)
-            
-            if test_epoch_loss != None and math.isnan(float(test_epoch_loss)) == False:
-                if last_test_loss == None or test_epoch_loss < (last_test_loss + 0.5): # 有容忍
-                    # 开始存档
-                    ckpt_file = "./checkpoint/yolov3_800_chn_test_loss_%.4f.ckpt" % test_epoch_loss
-                    log_start_time = time.localtime(time.time())
-                    log_time = time.strftime('%Y-%m-%d %H:%M:%S', log_start_time)
-                    print("=> Epoch: %d(%d/%d) Time: %s Train loss: %.2f Test loss: %.2f Saving %s ..."
-                                    %(global_epoch, epoch, total_epoch, log_time, train_epoch_loss, test_epoch_loss, ckpt_file))
-                    self.saver.save(self.sess, ckpt_file, global_step=global_epoch)
-                    
-                    # 实际的快照名称
-                    ckpt_file_path = ckpt_file+"-"+str(global_epoch)
-
-                    # 记录最小损失的快照，为避免被框架定时删除，再次进行存档
-                    if min_loss_value == None or test_epoch_loss < min_loss_value:
-                        min_loss_value = test_epoch_loss
-                        min_loss_checkpoint = ckpt_file_path
-                        min_loss_bak_epoch = epoch + 5
-                        
-                     
-                    # 记录该快照
-                    ckpt_list.append([ckpt_file_path, test_epoch_loss])
-                    ckpt_list.sort(key=lambda elem: elem[1])
-                    if len(ckpt_list) > limit:
-                        ckpt_list, remove_list = ckpt_list[:limit], ckpt_list[limit:]
-                        for elem in remove_list:
-                            fname = elem[0]    
-                            loss = elem[1]
-                            if last_test_loss == None or loss > last_test_loss:
-                                cmd = "rm "+fname+"*"
-                                print("calling  --- ", cmd)
-                                os.system(cmd)
-                    
-                    if len(ckpt_list) > 0:
-                        for k in range(len(ckpt_list)-1, -1, -1):
-                            elem = ckpt_list[k]
-                            print("current ranking:", elem[0])
+                # 记录该快照
+                limit = 6
+                
+                # 如果列表未满，且小于最大的损失率才添加
+                train_epoch_loss, test_epoch_loss = np.mean(train_epoch_loss), np.mean(test_epoch_loss)
+                print("current-test-lost: %.4f" % test_epoch_loss)
+                
+                if test_epoch_loss != None and math.isnan(float(test_epoch_loss)) == False:
+                    if last_test_loss == None or test_epoch_loss < (last_test_loss + 0.5): # 有容忍
+                        # 如果ckpt_list未满，或者比最后一个还低才进行存档
+                        if len(ckpt_list) <= limit or test_epoch_loss < ckpt_list[len(ckpt_list)-1][1]:
+                            # 开始存档
+                            ckpt_file = "./checkpoint/yolov3_800_66_chn_test_loss_%.4f.ckpt" % test_epoch_loss
+                            log_start_time = time.localtime(time.time())
+                            log_time = time.strftime('%Y-%m-%d %H:%M:%S', log_start_time)
+                            print("=> Epoch: %d(%d/%d) Time: %s Train loss: %.2f Test loss: %.2f Saving %s ..."
+                                            %(global_epoch, epoch, total_epoch, log_time, train_epoch_loss, test_epoch_loss, ckpt_file))
+                            self.saver.save(self.sess, ckpt_file, global_step=global_epoch)
                             
-                    if min_loss_checkpoint != None and min_loss_value != None and min_loss_bak_epoch != None:
-                        if epoch >= min_loss_bak_epoch:
-                            os.system("cp "+min_loss_checkpoint+".* ./checkpoint/bak")
-                            print(min_loss_checkpoint, " backuped")
-                            min_loss_bak_epoch = None
+                            # 实际的快照名称
+                            ckpt_file_path = ckpt_file+"-"+str(global_epoch)
+
+                            # 记录最小损失的快照，为避免被框架定时删除，再次进行存档
+                            if min_loss_value == None or test_epoch_loss < min_loss_value:
+                                min_loss_value = test_epoch_loss
+                                min_loss_checkpoint = ckpt_file_path
+                                min_loss_bak_epoch = epoch + 5
+                                
+                             
+                            # 记录该快照
+                            ckpt_list.append([ckpt_file_path, test_epoch_loss])
+                            ckpt_list.sort(key=lambda elem: elem[1])
+                            if len(ckpt_list) > limit:
+                                ckpt_list, remove_list = ckpt_list[:limit], ckpt_list[limit:]
+                                for elem in remove_list:
+                                    fname = elem[0]    
+                                    loss = elem[1]
+                                    if last_test_loss == None or loss > last_test_loss:
+                                        cmd = "rm "+fname+"*"
+                                        print("calling  --- ", cmd)
+                                        os.system(cmd)
+                        
+                        if len(ckpt_list) > 0:
+                            for k in range(len(ckpt_list)-1, -1, -1):
+                                elem = ckpt_list[k]
+                                print("current ranking:", elem[0])
+                                
+                        if min_loss_checkpoint != None and min_loss_value != None and min_loss_bak_epoch != None:
+                            if epoch >= min_loss_bak_epoch:
+                                os.system("cp "+min_loss_checkpoint+".* ./checkpoint/bak")
+                                print(min_loss_checkpoint, " backuped")
+                                min_loss_bak_epoch = None
 
 if __name__ == '__main__': YoloTrain().train()
 

@@ -52,6 +52,8 @@ if not args.no_plot:
   try:
     import matplotlib.pyplot as plt
     draw_plot = True
+    plt.rcParams['font.sans-serif']=['simsun'] #用来正常显示中文标签
+    plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
   except ImportError:
     print("\"matplotlib\" not found, please install it to get the resulting plots.")
     args.no_plot = True
