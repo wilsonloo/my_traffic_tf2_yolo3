@@ -20,11 +20,11 @@ from PIL import Image
 
 
 return_elements = ["input/input_data:0", "pred_sbbox/concat_2:0", "pred_mbbox/concat_2:0", "pred_lbbox/concat_2:0"]
-pb_file         = "./models/yolov3_800_66_chn_test_loss_3.3407.ckpt-142.pb"
+pb_file         = "./models/yolov3_800_66_chn_test_loss_2.4417.ckpt-259.pb"
 video_path      = "./docs/images/Rec0003.mp4"
 # video_path      = 0
 num_classes     = 66
-input_size      = 800
+input_size      = 608
 score_threshold = 0.25
 iou_threshold   = 0.45
 graph           = tf.Graph()

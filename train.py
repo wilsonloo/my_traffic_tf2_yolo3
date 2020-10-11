@@ -224,7 +224,7 @@ class YoloTrain(object):
                 if test_epoch_loss != None and math.isnan(float(test_epoch_loss)) == False:
                     if last_test_loss == None or test_epoch_loss < (last_test_loss + 0.5): # 有容忍
                         # 如果ckpt_list未满，或者比最后一个还低才进行存档
-                        if len(ckpt_list) <= limit or test_epoch_loss < ckpt_list[len(ckpt_list)-1][1]:
+                        if len(ckpt_list) < limit or test_epoch_loss < ckpt_list[limit-1][1]:
                             # 开始存档
                             ckpt_file = "./checkpoint/yolov3_800_66_chn_test_loss_%.4f.ckpt" % test_epoch_loss
                             log_start_time = time.localtime(time.time())
