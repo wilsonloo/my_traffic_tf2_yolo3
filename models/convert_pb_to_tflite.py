@@ -17,6 +17,7 @@ def convert(in_pb_path, out_tflite_path, image_input_size):
     output_arrays = ["pred_sbbox/concat_2", "pred_mbbox/concat_2", "pred_lbbox/concat_2"]
      
     converter = tf.compat.v1.lite.TFLiteConverter.from_frozen_graph(in_pb_path, input_arrays, output_arrays, input_shapes)
+    converter.post_training_quantize = True
     tflite_model = converter.convert()
     open(out_tflite_path, "wb").write(tflite_model)
 

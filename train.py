@@ -138,6 +138,7 @@ class YoloTrain(object):
     def train(self):
         from_scratch = False
         self.sess.run(tf.global_variables_initializer())
+
         try:
             print('=> Restoring weights from: %s ... ' % self.initial_weight)
             self.loader.restore(self.sess, self.initial_weight)
@@ -226,7 +227,7 @@ class YoloTrain(object):
                         # 如果ckpt_list未满，或者比最后一个还低才进行存档
                         if len(ckpt_list) < limit or test_epoch_loss < ckpt_list[limit-1][1]:
                             # 开始存档
-                            ckpt_file = "./checkpoint/yolov3_800_66_chn_test_loss_%.4f.ckpt" % test_epoch_loss
+                            ckpt_file = "./checkpoint/yolov3_66_chn_test_loss_%.4f.ckpt" % test_epoch_loss
                             log_start_time = time.localtime(time.time())
                             log_time = time.strftime('%Y-%m-%d %H:%M:%S', log_start_time)
                             print("=> Epoch: %d(%d/%d) Time: %s Train loss: %.2f Test loss: %.2f Saving %s ..."
